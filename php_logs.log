@@ -1,0 +1,266 @@
+[03-Feb-2020 17:28:11 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 156
+[03-Feb-2020 17:28:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 156
+[03-Feb-2020 17:28:42 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 156
+[03-Feb-2020 17:28:42 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 156
+[03-Feb-2020 18:16:22 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[03-Feb-2020 18:16:22 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[03-Feb-2020 18:17:07 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[03-Feb-2020 18:17:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[03-Feb-2020 18:17:38 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[03-Feb-2020 18:17:38 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[03-Feb-2020 18:24:38 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[03-Feb-2020 18:24:38 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[03-Feb-2020 18:25:00 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[03-Feb-2020 18:25:00 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[03-Feb-2020 18:26:31 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[03-Feb-2020 18:26:31 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:48:11 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:48:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:48:30 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:48:30 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:50:55 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:50:55 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:50:59 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:50:59 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:01 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:01 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:17 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:17 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:18 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:18 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:19 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:19 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:19 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:19 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:35 Europe/Berlin] PHP Warning:  include(includes/saStrane.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:35 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/saStrane.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:36 Europe/Berlin] PHP Warning:  include(includes/saStrane.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/saStrane.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:36 Europe/Berlin] PHP Warning:  include(includes/saStrane.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/saStrane.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:37 Europe/Berlin] PHP Warning:  include(includes/saStrane.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/saStrane.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:37 Europe/Berlin] PHP Warning:  include(includes/saStrane.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/saStrane.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:37 Europe/Berlin] PHP Warning:  include(includes/saStrane.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/saStrane.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:37 Europe/Berlin] PHP Warning:  include(includes/saStrane.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/saStrane.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:40 Europe/Berlin] PHP Warning:  include(includes/saStrane.php): failed to open stream: No such file or directory in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 13:51:40 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/saStrane.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\igracke\registracija.php on line 168
+[04-Feb-2020 14:36:49 Europe/Berlin] PHP Notice:  Undefined variable: con in C:\xampp\htdocs\igracke\registracija.php on line 288
+[04-Feb-2020 14:36:49 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\igracke\registracija.php on line 288
+[04-Feb-2020 14:37:59 Europe/Berlin] PHP Notice:  Undefined variable: con in C:\xampp\htdocs\igracke\registracija.php on line 288
+[04-Feb-2020 14:37:59 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\igracke\registracija.php on line 288
+[04-Feb-2020 23:39:37 Europe/Berlin] PHP Warning:  printf(): Too few arguments in E:\programi\xampp\htdocs\igracke\db.php on line 15
+[04-Feb-2020 23:40:07 Europe/Berlin] PHP Warning:  printf(): Too few arguments in E:\programi\xampp\htdocs\igracke\db.php on line 15
+[04-Feb-2020 23:50:07 Europe/Berlin] PHP Notice:  Undefined variable: con in E:\programi\xampp\htdocs\igracke\registracija.php on line 288
+[04-Feb-2020 23:50:07 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in E:\programi\xampp\htdocs\igracke\registracija.php on line 288
+[05-Feb-2020 00:51:22 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 00:51:22 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 00:51:22 Europe/Berlin] PHP Notice:  Undefined variable: db in E:\programi\xampp\htdocs\igracke\registracija.php on line 73
+[05-Feb-2020 00:51:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbConnect() on null in E:\programi\xampp\htdocs\igracke\registracija.php:73
+Stack trace:
+#0 {main}
+  thrown in E:\programi\xampp\htdocs\igracke\registracija.php on line 73
+[05-Feb-2020 00:53:06 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 00:53:06 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 00:53:06 Europe/Berlin] PHP Notice:  Undefined variable: db in E:\programi\xampp\htdocs\igracke\registracija.php on line 73
+[05-Feb-2020 00:53:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbConnect() on null in E:\programi\xampp\htdocs\igracke\registracija.php:73
+Stack trace:
+#0 {main}
+  thrown in E:\programi\xampp\htdocs\igracke\registracija.php on line 73
+[05-Feb-2020 00:55:20 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 00:55:20 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 00:55:20 Europe/Berlin] PHP Notice:  Undefined variable: db in E:\programi\xampp\htdocs\igracke\registracija.php on line 74
+[05-Feb-2020 00:55:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbConnect() on null in E:\programi\xampp\htdocs\igracke\registracija.php:74
+Stack trace:
+#0 {main}
+  thrown in E:\programi\xampp\htdocs\igracke\registracija.php on line 74
+[05-Feb-2020 00:57:51 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 00:57:51 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 00:57:51 Europe/Berlin] PHP Notice:  Undefined variable: db in E:\programi\xampp\htdocs\igracke\registracija.php on line 79
+[05-Feb-2020 00:57:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbConnect() on null in E:\programi\xampp\htdocs\igracke\registracija.php:79
+Stack trace:
+#0 {main}
+  thrown in E:\programi\xampp\htdocs\igracke\registracija.php on line 79
+[05-Feb-2020 00:58:21 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 00:58:21 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 00:58:21 Europe/Berlin] PHP Notice:  Undefined variable: db in E:\programi\xampp\htdocs\igracke\registracija.php on line 78
+[05-Feb-2020 00:58:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbConnect() on null in E:\programi\xampp\htdocs\igracke\registracija.php:78
+Stack trace:
+#0 {main}
+  thrown in E:\programi\xampp\htdocs\igracke\registracija.php on line 78
+[05-Feb-2020 00:58:31 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 00:58:31 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 00:58:31 Europe/Berlin] PHP Notice:  Undefined variable: db in E:\programi\xampp\htdocs\igracke\registracija.php on line 78
+[05-Feb-2020 00:58:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbConnect() on null in E:\programi\xampp\htdocs\igracke\registracija.php:78
+Stack trace:
+#0 {main}
+  thrown in E:\programi\xampp\htdocs\igracke\registracija.php on line 78
+[05-Feb-2020 00:58:48 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 00:58:48 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 00:58:48 Europe/Berlin] PHP Notice:  Undefined variable: db in E:\programi\xampp\htdocs\igracke\registracija.php on line 78
+[05-Feb-2020 00:58:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbConnect() on null in E:\programi\xampp\htdocs\igracke\registracija.php:78
+Stack trace:
+#0 {main}
+  thrown in E:\programi\xampp\htdocs\igracke\registracija.php on line 78
+[05-Feb-2020 01:07:36 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 01:07:36 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 01:07:36 Europe/Berlin] PHP Notice:  Undefined variable: db in E:\programi\xampp\htdocs\igracke\registracija.php on line 75
+[05-Feb-2020 01:07:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbConnect() on null in E:\programi\xampp\htdocs\igracke\registracija.php:75
+Stack trace:
+#0 {main}
+  thrown in E:\programi\xampp\htdocs\igracke\registracija.php on line 75
+[05-Feb-2020 01:11:29 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 01:11:29 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 01:11:29 Europe/Berlin] PHP Notice:  Undefined variable: db in E:\programi\xampp\htdocs\igracke\registracija.php on line 75
+[05-Feb-2020 01:11:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbConnect() on null in E:\programi\xampp\htdocs\igracke\registracija.php:75
+Stack trace:
+#0 {main}
+  thrown in E:\programi\xampp\htdocs\igracke\registracija.php on line 75
+[05-Feb-2020 01:11:53 Europe/Berlin] PHP Warning:  printf(): Too few arguments in E:\programi\xampp\htdocs\igracke\db.php on line 15
+[05-Feb-2020 01:13:11 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 01:13:11 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 01:13:11 Europe/Berlin] PHP Notice:  Undefined variable: db in E:\programi\xampp\htdocs\igracke\registracija.php on line 75
+[05-Feb-2020 01:13:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbConnect() on null in E:\programi\xampp\htdocs\igracke\registracija.php:75
+Stack trace:
+#0 {main}
+  thrown in E:\programi\xampp\htdocs\igracke\registracija.php on line 75
+[05-Feb-2020 01:14:18 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 01:14:18 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 01:14:18 Europe/Berlin] PHP Notice:  Undefined variable: db in E:\programi\xampp\htdocs\igracke\registracija.php on line 75
+[05-Feb-2020 01:14:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbConnect() on null in E:\programi\xampp\htdocs\igracke\registracija.php:75
+Stack trace:
+#0 {main}
+  thrown in E:\programi\xampp\htdocs\igracke\registracija.php on line 75
+[05-Feb-2020 01:14:51 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 01:14:51 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 01:14:51 Europe/Berlin] PHP Notice:  Undefined variable: db in E:\programi\xampp\htdocs\igracke\registracija.php on line 75
+[05-Feb-2020 01:14:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbConnect() on null in E:\programi\xampp\htdocs\igracke\registracija.php:75
+Stack trace:
+#0 {main}
+  thrown in E:\programi\xampp\htdocs\igracke\registracija.php on line 75
+[05-Feb-2020 01:15:38 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 01:15:38 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 01:15:38 Europe/Berlin] PHP Notice:  Undefined variable: db in E:\programi\xampp\htdocs\igracke\registracija.php on line 75
+[05-Feb-2020 01:15:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbConnect() on null in E:\programi\xampp\htdocs\igracke\registracija.php:75
+Stack trace:
+#0 {main}
+  thrown in E:\programi\xampp\htdocs\igracke\registracija.php on line 75
+[05-Feb-2020 01:16:24 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 01:16:24 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 01:17:42 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 01:17:42 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 01:18:57 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 01:18:57 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 01:19:51 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 01:19:51 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 01:20:48 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 01:20:48 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 01:20:48 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 01:20:48 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:20:21 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:20:21 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:21:17 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:21:17 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:21:20 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:21:20 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:21:24 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:21:24 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:03 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:03 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:06 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:06 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:06 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:06 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:07 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:07 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:07 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:07 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:07 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:07 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:07 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:07 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:37 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:37 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:37 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:37 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:38 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:38 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:39 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:39 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:39 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:39 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:40 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:40 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:22:41 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:22:41 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:23:34 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:23:34 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:23:34 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:23:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:23:34 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:23:34 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:23:34 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:23:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:23:35 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:23:35 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:23:35 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:23:35 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:23:36 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:23:36 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:23:36 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:23:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:23:36 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:23:36 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:23:36 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:23:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:23:42 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:23:42 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:23:42 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:23:42 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:24:06 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:24:06 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:24:06 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:24:06 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:24:07 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:24:07 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:24:07 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:24:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:24:08 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:24:08 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:24:08 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:24:08 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:24:08 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:24:08 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:24:08 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:24:08 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:24:10 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:24:10 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:24:10 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:24:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:29:36 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:29:36 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:29:36 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:29:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:29:36 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:29:36 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:29:36 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:29:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:29:37 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:29:37 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:29:37 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:29:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:29:37 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:29:37 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:29:37 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:29:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:30:01 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 12
+[05-Feb-2020 02:30:01 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
+[05-Feb-2020 02:30:01 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[05-Feb-2020 02:30:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
