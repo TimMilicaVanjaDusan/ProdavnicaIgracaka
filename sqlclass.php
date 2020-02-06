@@ -107,4 +107,27 @@ return true;
 else return false;
  }
 
+ function prikaziCenu($naziv)
+ {
+
+   $this->sql = "SELECT igracka.cena FROM igracka WHERE igracka.nazivIgracke = '".$naziv."'";
+   return mysqli_query($this->conn, $this->sql);
+   
+ }
+
+ function prikaziDetalje($naziv){
+
+    $this->sql = "SELECT igracka.nazivIgracke,igracka.proizvodjac,igracka.cena,igracka.opis,igracka.slika,tipIgracke.pol FROM igracka JOIN tipIgracke ON igracka.tipIgrackeID=tipIgracke.tipIgrackeID  WHERE igracka.nazivIgracke = '".$naziv."'";
+    return mysqli_query($this->conn, $this->sql);
+
+ }
+
+ function prikaziNaziveIgracaka()
+ {
+
+    $this->sql = "SELECT igracka.nazivIgracke FROM igracka ";
+    return mysqli_query($this->conn, $this->sql);
+
+ }
+
 }
