@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 04, 2020 at 06:24 PM
+-- Generation Time: Feb 06, 2020 at 02:27 PM
 -- Server version: 10.4.10-MariaDB
 -- PHP Version: 7.3.12
 
@@ -32,7 +32,7 @@ CREATE TABLE `igracka` (
   `igrackaID` int(10) NOT NULL,
   `nazivIgracke` varchar(40) NOT NULL,
   `proizvodjac` varchar(40) NOT NULL,
-  `cena` double(10,2) NOT NULL,
+  `cena` varchar(20) NOT NULL,
   `opis` varchar(100) NOT NULL,
   `slika` varchar(50) NOT NULL,
   `stanje` int(10) NOT NULL,
@@ -44,16 +44,18 @@ CREATE TABLE `igracka` (
 --
 
 INSERT INTO `igracka` (`igrackaID`, `nazivIgracke`, `proizvodjac`, `cena`, `opis`, `slika`, `stanje`, `tipIgrackeID`) VALUES
-(1, 'Kegle', 'Shimmer & Shine', 1000.00, 'Kegle za devojčice. Uzrast 3+ godina.', 'slike/devojcice/kegle.png', 10, 1),
-(2, 'Magična tabla', 'Shimmer & Shine', 1000.00, 'Magična tabla za devojčice. Uzrast 3+ godine.', 'slike/devojcica/magicnaTabla.png', 5, 1),
-(3, 'Drvena kuhinja', 'Nepoznat', 4500.00, 'San svake male devojčice jeste spremanje hrane svojoj porodici i prijateljima. Omogućite to svojoj m', 'slika/devojcice/drvenaKuhinja.png', 10, 1),
-(4, 'Plišani medo ', 'Toyzzz', 5000.00, 'Plišani drugar za decu uzrasta 3+ godine. Visina mede 75 cm.', 'slike/obaPola/medo75cm.png', 3, 4),
-(5, 'Plišano magare', 'Toyzzz', 600.00, 'Plišani drugar za sve uzraste.', 'slike/obaPola/magare.png', 10, 4),
-(6, 'Učimo azbuku', 'Toddly Fun', 4300.00, 'Pomozite Vašim mališanima da uz igru savladaju azbuku. Za sve uzraste.', 'slike/obaPola/ucimoAzbuku.png', 11, 4),
-(7, 'Tabla sa stalkom', 'Toddly Fun', 2300.00, 'Probudite u Vašem mališanu umetnika uz pomoć table sa stalkom. U paketu dolazi i pakovanje flomaster', 'slike/obaPola/tablaSaStalkom.png', 2, 4),
-(8, 'Drveni bilijar', 'Toyzz', 4000.00, 'Drveni bilijar za dečake. Uzrast 7+ godina. ', 'slike/decaci/drveniBilijar', 3, 2),
-(9, 'Koš sa tablom', 'Magic', 500.00, 'Ideee trojkaaa sa druge planete. Uzrast 3+ godine, namenjen dečacima.', 'slike/decaci/kosSaTablom', 11, 2),
-(10, 'Vojna vozila', 'Porces', 1400.00, 'U jednom pakovanju se nalazi 4 kamiona i 1 helikopter. Za dečake svih uzrasta.', 'slike/decaci/vojnaVozila', 10, 2);
+(1, 'Kegle', 'Shimmer & Shine', '999.99 RSD', 'Kegle za devojčice. Uzrast 3+ godina.', 'slike/devojcice/kegle3.png', 10, 1),
+(2, 'Magična tabla', 'Shimmer & Shine', '999.99 RSD', 'Magična tabla za devojčice. Uzrast 3+ godine.', 'slike/devojcice/magicnaTabla5.png', 5, 1),
+(3, 'Drvena kuhinja', 'Nepoznat', '4500.00 RSD', 'San svake male devojčice jeste spremanje hrane svojoj porodici i prijateljima. Omogućite to svojoj m', 'slike/devojcice/drvenaKuhinja2.png', 10, 1),
+(4, 'Plišani medo ', 'Toyzzz', '5000.00 RSD', 'Plišani drugar za decu uzrasta 3+ godine. Visina mede 75 cm.', 'slike/obaPola/medo75cm10.png', 3, 4),
+(5, 'Plišano magare', 'Toyzzz', '599.99 RSD', 'Plišani drugar za sve uzraste.', 'slike/obaPola/magare1.png', 10, 4),
+(6, 'Učimo azbuku', 'Toddly Fun', '4300.00 RS', 'Pomozite Vašim mališanima da uz igru savladaju azbuku. Za sve uzraste.', 'slike/obaPola/ucimoAzbuku3.png', 11, 4),
+(7, 'Tabla sa stalkom', 'Toddly Fun', '2300.00RSD', 'Probudite u Vašem mališanu umetnika uz pomoć table sa stalkom. U paketu dolazi i pakovanje flomaster', 'slike/obaPola/tablaSaStalkom.png', 2, 4),
+(8, 'Drveni bilijar', 'Toyzz', '4000.00 RSD', 'Drveni bilijar za dečake. Uzrast 7+ godina. ', 'slike/decaci/drveniBilijar.png', 3, 2),
+(9, 'Koš sa tablom', 'Magic', '500.00 RSD', 'Ideee trojkaaa sa druge planete. Uzrast 3+ godine, namenjen dečacima.', 'slike/decaci/kosSaTablom4.png', 11, 2),
+(10, 'Vojna vozila', 'Porces', '1400.00 RSD', 'U jednom pakovanju se nalazi 4 kamiona i 1 helikopter. Za dečake svih uzrasta.', 'slike/decaci/vojnaVozila2.png', 10, 2),
+(11, 'Science and experiment', 'SCME', '2800.00 RSD', 'Neka Vaše dete razvija inteligenciju kroz ovu igricu.', 'slike/decaci/s&e.png', 5, 2),
+(12, 'Solar energy concept house ', 'DIY', '1649.99 RSD', 'Učite decu kroz ovu igricu kako da štede resurse.', 'slike/decaci/kuca.png', 9, 2);
 
 -- --------------------------------------------------------
 
@@ -125,13 +127,13 @@ ALTER TABLE `tipigracke`
 -- AUTO_INCREMENT for table `igracka`
 --
 ALTER TABLE `igracka`
-  MODIFY `igrackaID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
+  MODIFY `igrackaID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
 
 --
 -- AUTO_INCREMENT for table `korisnik`
 --
 ALTER TABLE `korisnik`
-  MODIFY `korisnikID` int(10) NOT NULL AUTO_INCREMENT;
+  MODIFY `korisnikID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `tipigracke`

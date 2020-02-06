@@ -264,3 +264,38 @@ Stack trace:
 [05-Feb-2020 02:30:01 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in E:\programi\xampp\htdocs\igracke\dbconfig.php on line 3
 [05-Feb-2020 02:30:01 Europe/Berlin] PHP Notice:  Undefined property: Mysql::$dblink in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
 [05-Feb-2020 02:30:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\programi\xampp\htdocs\igracke\sqlclass.php on line 80
+[06-Feb-2020 14:19:14 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 12
+[06-Feb-2020 14:19:14 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\dbconfig.php on line 3
+[06-Feb-2020 14:19:14 Europe/Berlin] PHP Notice:  Undefined variable: conn in C:\xampp\htdocs\ProdavnicaIgracaka\pocetna.php on line 391
+[06-Feb-2020 14:19:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbDisconnect() on null in C:\xampp\htdocs\ProdavnicaIgracaka\pocetna.php:391
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ProdavnicaIgracaka\pocetna.php on line 391
+[06-Feb-2020 14:20:33 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 12
+[06-Feb-2020 14:20:33 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\dbconfig.php on line 3
+[06-Feb-2020 14:23:45 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 12
+[06-Feb-2020 14:23:45 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\dbconfig.php on line 3
+[06-Feb-2020 14:23:45 Europe/Berlin] PHP Notice:  Undefined variable: conn in C:\xampp\htdocs\ProdavnicaIgracaka\pocetna.php on line 391
+[06-Feb-2020 14:23:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbDisconnect() on null in C:\xampp\htdocs\ProdavnicaIgracaka\pocetna.php:391
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ProdavnicaIgracaka\pocetna.php on line 391
+[06-Feb-2020 14:23:52 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 12
+[06-Feb-2020 14:23:52 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\dbconfig.php on line 3
+[06-Feb-2020 14:25:06 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 12
+[06-Feb-2020 14:25:06 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\dbconfig.php on line 3
+[06-Feb-2020 14:25:06 Europe/Berlin] PHP Notice:  Undefined variable: conn in C:\xampp\htdocs\ProdavnicaIgracaka\pocetna.php on line 391
+[06-Feb-2020 14:25:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function dbDisconnect() on null in C:\xampp\htdocs\ProdavnicaIgracaka\pocetna.php:391
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ProdavnicaIgracaka\pocetna.php on line 391
+[06-Feb-2020 14:25:18 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 12
+[06-Feb-2020 14:25:18 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\dbconfig.php on line 3
+[06-Feb-2020 14:25:25 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 12
+[06-Feb-2020 14:25:25 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\dbconfig.php on line 3
+[06-Feb-2020 14:27:53 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 12
+[06-Feb-2020 14:27:53 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\dbconfig.php on line 3
+[06-Feb-2020 14:27:58 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 12
+[06-Feb-2020 14:27:58 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\dbconfig.php on line 3
+[06-Feb-2020 15:24:56 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Mysql has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 12
+[06-Feb-2020 15:24:56 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Dbconfig has a deprecated constructor in C:\xampp\htdocs\ProdavnicaIgracaka\dbconfig.php on line 3

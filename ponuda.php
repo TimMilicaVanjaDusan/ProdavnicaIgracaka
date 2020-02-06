@@ -1,3 +1,16 @@
+<?php
+error_reporting(E_ALL | E_STRICT);
+ini_set("display_errors", 0);
+ini_set("log_errors", 1);
+ini_set("error_log", "php_logs.log");
+
+?>
+<?php
+
+include 'sqlclass.php';
+
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,6 +21,8 @@
     <link rel="stylesheet" href="styles/bootstrap-337.min.css">
     <link rel="stylesheet" href="font-awsome/css/font-awesome.min.css">
     <link rel="stylesheet" href="styles/style.css">
+    <script src="js/jquery-331.min.js"></script>
+    <script src="js/bootstrap-337.min.js"></script>
 </head>
 
 <body>
@@ -111,26 +126,52 @@
                    <div class="col-md-4 col-sm-6 center-responsive">
                        
                        <div class="product">
+
+                       <?php
+                       $nazivIgracke = "Drvena kuhinja"
+                       ?>
                    
-                   <a href="details.php">
+                   <!-- za svaku igracku iz ponude sam dodala detalje klikom na sliku, ime, i dugme(podaci iz baze) -->
+
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                        
-                       <img class="img-responsive" src="slike/devojcice/drvenaKuhinja.png" alt="Product 1">
+                       <img class="img-responsive" src="slike/devojcice/drvenaKuhinja2.png" alt="Product 1">
                        
                    </a>
                    
                    <div class="text">
                        
                        <h3>
-                           <a href="details.php">
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                               Drvena kuhinja
                            </a>
                        </h3>
                        
-                       <p class="price">4500 RSD</p>
+                       <p class="price"> <!-- ovde je bila rucno cena napisana-->
+
+               <?php
+
+                        $db = new MySql();
+                        $db->dbConnect();
+                       $naziv = "Drvena kuhinja";
+
+                       $result = $db->prikaziCenu($naziv);
+
+                       while ($row=mysqli_fetch_array($result)){
+
+                       ?>
+                       <div><?php echo $row["cena"]; ?></div>
+<?php
+                       }
+?>
+                        </p>
                        
                        <p class="button">
                            
-                           <a href="details.php" class="btn btn-default">Vidi detalje</a>
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>"
+                class="btn btn-default">Vidi detalje</a>
                            
                            <a href="details.php" class="btn btn-primary">
                                
@@ -150,26 +191,49 @@
                    <div class="col-md-4 col-sm-6 center-responsive">
                        
                        <div class="product"><!-- proizvod 2 -->
+
+                       <?php
+                            $nazivIgracke = "Kegle";
+                       ?>
                    
-                   <a href="details.php">
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                        
-                       <img class="img-responsive" src="slike/devojcice/kegle2.png" alt="Product 1">
+                       <img class="img-responsive" src="slike/devojcice/kegle3.png" alt="Product 1">
                        
                    </a>
                    
                    <div class="text">
                        
                        <h3>
-                           <a href="details.php">
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                                Drvene kegle
                            </a>
                        </h3>
                        
-                       <p class="price">1000 RSD</p>
+                       <p class="price"><!-- bilo rucno-->
+                    <?php
+                       $db = new MySql();
+                        $db->dbConnect();
+                       $naziv = "Kegle";
+
+                       $result = $db->prikaziCenu($naziv);
+
+                       while ($row=mysqli_fetch_array($result)){
+
+                       ?>
+                       <div><?php echo $row["cena"]; ?></div>
+<?php
+                       }
+?>
+                    
+                    </p>
                        
                        <p class="button">
                            
-                           <a href="details.php" class="btn btn-default">Vidi detalje</a>
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>"
+                class="btn btn-default">Vidi detalje</a>
                            
                            <a href="details.php" class="btn btn-primary">
                                
@@ -189,26 +253,51 @@
                    <div class="col-md-4 col-sm-6 center-responsive">
                        
                        <div class="product"><!-- proizvod 3 -->
+
+                       <?php
+                            $nazivIgracke = "Magična tabla";
+                       ?>
                    
-                   <a href="details.php">
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                        
-                       <img class="img-responsive" src="slike/devojcice/magicnaTabla4.png" alt="Product 1">
+                       <img class="img-responsive" src="slike/devojcice/magicnaTabla5.png" alt="Product 1">
                        
                    </a>
                    
                    <div class="text"><!-- text Begin -->
                        
                        <h3>
-                           <a href="details.php">
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                                Magična tabla
                            </a>
                        </h3>
                        
-                       <p class="price">1000RSD</p>
+                       <p class="price"><!-- rucno cena bila napisana-->
+                    
+                       <?php
+                       $db = new MySql();
+                        $db->dbConnect();
+                       $naziv = "Magična tabla";
+
+                       $result = $db->prikaziCenu($naziv);
+
+                       while ($row=mysqli_fetch_array($result)){
+
+                       ?>
+                       <div><?php echo $row["cena"]; ?></div>
+<?php
+                       }
+?>
+
+                    
+                    </p>
                        
                        <p class="button">
                            
-                           <a href="details.php" class="btn btn-default">Vidi detalje</a>
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>"
+                class="btn btn-default">Vidi detalje</a>
                            
                            <a href="details.php" class="btn btn-primary">
                                
@@ -229,7 +318,13 @@
                        
                        <div class="product"><!-- proizvod 4 -->
                    
-                   <a href="details.php">
+                       <?php
+
+                       $nazivIgracke =  "Drveni bilijar";
+                       ?>
+
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                        
                        <img class="img-responsive" src="slike/decaci/drveniBilijar.png" alt="Product 1">
                        
@@ -238,16 +333,35 @@
                    <div class="text">
                        
                        <h3>
-                           <a href="details.php">
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                                Drveni bilijar
                            </a>
                        </h3>
                        
-                       <p class="price">4000 RSD</p>
+                       <p class="price"><!--rucno cena bila ispisana-->
+                    
+                       <?php
+                       $db = new MySql();
+                        $db->dbConnect();
+                       $naziv = "Drveni bilijar";
+
+                       $result = $db->prikaziCenu($naziv);
+
+                       while ($row=mysqli_fetch_array($result)){
+
+                       ?>
+                       <div><?php echo $row["cena"]; ?></div>
+<?php
+                       }
+?>
+                    
+                    </p>
                        
                        <p class="button">
                            
-                           <a href="details.php" class="btn btn-default">Vidi detalje</a>
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>"
+                class="btn btn-default">Vidi detalje</a>
                            
                            <a href="details.php" class="btn btn-primary">
                                
@@ -268,7 +382,13 @@
                        
                        <div class="product"><!-- proizvod 5 -->
                    
-                   <a href="details.php">
+                       <?php
+                       
+                       $nazivIgracke = "Koš sa tablom";
+
+                       ?>
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+             
                        
                        <img class="img-responsive" src="slike/decaci/kosSaTablom4.png" alt="Product 1">
                        
@@ -277,16 +397,35 @@
                    <div class="text">
                        
                        <h3>
-                           <a href="details.php">
-                              Kos sa tablom
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
+                              Koš sa tablom
                            </a>
                        </h3>
                        
-                       <p class="price">500 RSD</p>
+                       <p class="price"><!-- rucno cena bila napisana-->
+                    
+                       <?php
+                       $db = new MySql();
+                        $db->dbConnect();
+                       $naziv = "Koš sa tablom";
+
+                       $result = $db->prikaziCenu($naziv);
+
+                       while ($row=mysqli_fetch_array($result)){
+
+                       ?>
+                       <div><?php echo $row["cena"]; ?></div>
+<?php
+                       }
+?>
+
+                    </p>
                        
                        <p class="button">
                            
-                           <a href="details.php" class="btn btn-default">Vidi detalje</a>
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>"
+                class="btn btn-default">Vidi detalje</a>
                            
                            <a href="details.php" class="btn btn-primary">
                                
@@ -306,8 +445,14 @@
                    <div class="col-md-4 col-sm-6 center-responsive">
                        
                        <div class="product"><!-- proizvod 6 -->
+
+                       <?php
+                       
+                       $nazivIgracke = "Vojna vozila";
+                       ?>
                    
-                   <a href="details.php">
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                        
                        <img class="img-responsive" src="slike/decaci/vojnaVozila2.png" alt="Product 1">
                        
@@ -316,16 +461,36 @@
                    <div class="text">
                        
                        <h3>
-                           <a href="details.php">
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                                Vojna vozila
                            </a>
                        </h3>
                        
-                       <p class="price">1400 RSD</p>
+                       <p class="price"><!-- rucno cena bila napisana-->
+                    
+                       <?php
+                       $db = new MySql();
+                        $db->dbConnect();
+                       $naziv = "Vojna vozila";
+
+                       $result = $db->prikaziCenu($naziv);
+
+                       while ($row=mysqli_fetch_array($result)){
+
+                       ?>
+                       <div><?php echo $row["cena"]; ?></div>
+<?php
+                       }
+?>
+
+
+                    </p>
                        
                        <p class="button">
                            
-                           <a href="details.php" class="btn btn-default">Vidi detalje</a>
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>"
+                class="btn btn-default">Vidi detalje</a>
                            
                            <a href="details.php" class="btn btn-primary">
                                
@@ -345,26 +510,50 @@
                    <div class="col-md-4 col-sm-6 center-responsive">
                        
                        <div class="product"><!-- proizvod 7 -->
+
+                       <?php
+                       $nazivIgracke = "Plišano magare";
+                       ?>
                    
-                   <a href="details.php">
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                        
-                       <img class="img-responsive" src="slike/obaPola/magare.png" alt="Product 1">
+                       <img class="img-responsive" src="slike/obaPola/magare1.png" alt="Product 1">
                        
                    </a>
                    
                    <div class="text">
                        
                        <h3>
-                           <a href="details.php">
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
                                Plišano magare
                            </a>
                        </h3>
                        
-                       <p class="price">600 RSD</p>
+                       <p class="price"><!-- rucno cena bila napisana-->
+                    
+                    
+                       <?php
+                       $db = new MySql();
+                        $db->dbConnect();
+                       $naziv = "Plišano magare";
+
+                       $result = $db->prikaziCenu($naziv);
+
+                       while ($row=mysqli_fetch_array($result)){
+
+                       ?>
+                       <div><?php echo $row["cena"]; ?></div>
+<?php
+                       }
+?>
+
+                    </p>
                        
                        <p class="button">
                            
-                           <a href="details.php" class="btn btn-default">Vidi detalje</a>
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>"
+                class="btn btn-default">Vidi detalje</a>
                            
                            <a href="details.php" class="btn btn-primary">
                                
@@ -384,26 +573,52 @@
                    <div class="col-md-4 col-sm-6 center-responsive">
                        
                        <div class="product"><!-- proizvod 8 -->
+
+                       <?php
+                       $nazivIgracke = "Plišani medo";
+                       ?>
                    
-                   <a href="details.php">
+                   <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                        
-                       <img class="img-responsive" src="slike/obaPola/medo75cm3.png" alt="Product 1">
+                       <img class="img-responsive" src="slike/obaPola/medo75cm10.png" alt="Product 1">
                        
                    </a>
                    
                    <div class="text">
                        
                        <h3>
-                           <a href="details.php">
+
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                                Plišani medo
                            </a>
                        </h3>
                        
-                       <p class="price">5000 RSD</p>
+                       <p class="price"><!-- rucno bila napisana cena-->
+                    
+                    
+                       <?php
+                       $db = new MySql();
+                        $db->dbConnect();
+                       $naziv = "Plišani medo";
+
+                       $result = $db->prikaziCenu($naziv);
+
+                       while ($row=mysqli_fetch_array($result)){
+
+                       ?>
+                       <div><?php echo $row["cena"]; ?></div>
+<?php
+                       }
+?>
+
+                    </p>
                        
                        <p class="button">
                            
-                           <a href="details.php" class="btn btn-default">Vidi detalje</a>
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>"
+                class="btn btn-default">Vidi detalje</a>
                            
                            <a href="details.php" class="btn btn-primary">
                                
@@ -421,26 +636,50 @@
                        
                    </div>
                    <div class="product"><!-- proizvod 9 -->
+
+                   <?php
                    
-                   <a href="details.php">
+                   $nazivIgracke = "Tabla sa stalkom";
+                   ?>
+                   
+                   <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                        
-                       <img class="img-responsive" src="slike/obaPola/tablaSaStalkom5.png" alt="Product 1">
+                       <img class="img-responsive" src="slike/obaPola/tablaSaStalkom10.png" alt="Product 1">
                        
                    </a>
                    
                    <div class="text">
                        
                        <h3>
-                           <a href="details.php">
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+               
                                Tabla sa stalkom
                            </a>
                        </h3>
                        
-                       <p class="price">2300 RSD</p>
+                       <p class="price"><!-- bila rucno napisana cena-->
+                    
+                       <?php
+                       $db = new MySql();
+                        $db->dbConnect();
+                       $naziv = "Tabla sa stalkom";
+
+                       $result = $db->prikaziCenu($naziv);
+
+                       while ($row=mysqli_fetch_array($result)){
+
+                       ?>
+                       <div><?php echo $row["cena"]; ?></div>
+<?php
+                       }
+?>
+                    </p>
                        
                        <p class="button">
                            
-                           <a href="details.php" class="btn btn-default">Vidi detalje</a>
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>"
+                class="btn btn-default">Vidi detalje</a>
                            
                            <a href="details.php" class="btn btn-primary">
                                
@@ -458,26 +697,50 @@
                        
                    </div>
                    <div class="product"><!-- proizvod 9 -->
+
+
+                   <?php
                    
-                   <a href="details.php">
+                   $nazivIgracke = "Učimo azbuku";
+                   ?>
+                   
+                   
+                   <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
                        
-                       <img class="img-responsive" src="slike/obaPola/ucimoAzbuku1.png" alt="Product 1">
+                       <img class="img-responsive" src="slike/obaPola/ucimoAzbuku3.png" alt="Product 1">
                        
                    </a>
                    
                    <div class="text">
                        
                        <h3>
-                           <a href="details.php">
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
                                Učimo azbuku
                            </a>
                        </h3>
                        
-                       <p class="price">4300 RSD</p>
+                       <p class="price"><!--rucno bila napisana cena-->
+                    
+                       <?php
+                       $db = new MySql();
+                        $db->dbConnect();
+                       $naziv = "Učimo azbuku";
+
+                       $result = $db->prikaziCenu($naziv);
+
+                       while ($row=mysqli_fetch_array($result)){
+
+                       ?>
+                       <div><?php echo $row["cena"]; ?></div>
+<?php
+                       }
+?>
+                    
+                    </p>
                        
                        <p class="button">
                            
-                           <a href="details.php" class="btn btn-default">Vidi detalje</a>
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>" class="btn btn-default">Vidi detalje</a>
                            
                            <a href="details.php" class="btn btn-primary">
                                
@@ -491,7 +754,7 @@
                        
                    </div>
                    
-               </div><!-- proizvod 8 - kraj -->
+               </div><!-- proizvod 9 - kraj -->
                        
                    </div>
                </div>
@@ -502,10 +765,5 @@
        </div>
    </div>
 
-    
-    <script src="js/jquery-331.min.js"></script>
-    <script src="js/bootstrap-337.min.js"></script>
-    
-    
 </body>
 </html>
