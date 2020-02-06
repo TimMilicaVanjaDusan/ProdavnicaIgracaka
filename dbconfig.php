@@ -8,7 +8,7 @@ class Dbconfig
     protected $password;
     protected $dbName;
 
-    function dbconfig()
+    function __construct()
     {
         $this->serverName = "localhost";
         $this->userName = "root";

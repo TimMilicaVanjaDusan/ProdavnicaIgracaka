@@ -23,7 +23,7 @@ class Mysql extends Dbconfig
    private $records;
    private $affectedRows;
 
-   function Mysql()
+   function __construct()
    {
 
     $this->conn = NULL;
@@ -77,7 +77,7 @@ class Mysql extends Dbconfig
 	{
 		if($this->result = $this->conn->query($query)){
 			if (isset($this->result->num_rows)) $this->records         = $this->result->num_rows;
-				if (isset($this->conn->affected_rows)) $this->affected        = $this->dblink->affected_rows;
+				if (isset($this->conn->affected_rows)) $this->affected        = $this->conn->affected_rows;
 					return true;
 		}	
 		else{
@@ -100,12 +100,12 @@ class Mysql extends Dbconfig
         $adresa=mysqli_real_escape_string($this->conn,$podaci[4]);
         $telefon=mysqli_real_escape_string($this->conn,$podaci[5]);
         $email=mysqli_real_escape_string($this->conn,$podaci[6]);
-        $sql = "INSERT INTO korisnik (ime, prezime, korisnickoIme, lozinka, adresa, telefon, email) VALUES
-        ('". $ime."', '".$prezime."', '".$korisnickoIme."', '". $lozinka."', '". $adresa."', '". $telefon."','".$email."')";
-if ($this->ExecuteQuery($sql))
-return true;
-else return false;
- }
+        $sql = "INSERT INTO korisnik (ime, prezime, korisnickoIme, lozinka, adresa, telefon, email, status) VALUES
+        ('". $ime."', '".$prezime."', '".$korisnickoIme."', '". $lozinka."', '". $adresa."', '". $telefon."','".$email."', 'korisnik')";
+        if ($this->ExecuteQuery($sql))
+            return true;
+        else return false;
+    }
 
  function prikaziCenu($naziv)
  {
@@ -129,5 +129,11 @@ else return false;
     return mysqli_query($this->conn, $this->sql);
 
  }
-
+ function login($sifra,$ime) {
+    $sifra =  $this->conn->real_escape_string($sifra);
+    $ime =  $this->conn->real_escape_string($ime);
+    $lozinka = md5(SALT . md5($sifra));
+    $q = "SELECT * FROM korisnik WHERE lozinka='".$lozinka."' AND korisnickoIme='".$ime."'";
+    $this->ExecuteQuery($q);
+}
 }

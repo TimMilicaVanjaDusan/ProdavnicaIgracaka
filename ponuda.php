@@ -8,7 +8,8 @@ ini_set("error_log", "php_logs.log");
 <?php
 
 include 'sqlclass.php';
-
+$db = new MySql();
+$db->dbConnect();
 
 ?>
 <!DOCTYPE html>
@@ -152,9 +153,6 @@ include 'sqlclass.php';
                        <p class="price"> <!-- ovde je bila rucno cena napisana-->
 
                <?php
-
-                        $db = new MySql();
-                        $db->dbConnect();
                        $naziv = "Drvena kuhinja";
 
                        $result = $db->prikaziCenu($naziv);
@@ -214,8 +212,6 @@ include 'sqlclass.php';
                        
                        <p class="price"><!-- bilo rucno-->
                     <?php
-                       $db = new MySql();
-                        $db->dbConnect();
                        $naziv = "Kegle";
 
                        $result = $db->prikaziCenu($naziv);
@@ -277,8 +273,6 @@ include 'sqlclass.php';
                        <p class="price"><!-- rucno cena bila napisana-->
                     
                        <?php
-                       $db = new MySql();
-                        $db->dbConnect();
                        $naziv = "Magična tabla";
 
                        $result = $db->prikaziCenu($naziv);
@@ -342,8 +336,6 @@ include 'sqlclass.php';
                        <p class="price"><!--rucno cena bila ispisana-->
                     
                        <?php
-                       $db = new MySql();
-                        $db->dbConnect();
                        $naziv = "Drveni bilijar";
 
                        $result = $db->prikaziCenu($naziv);
@@ -406,8 +398,6 @@ include 'sqlclass.php';
                        <p class="price"><!-- rucno cena bila napisana-->
                     
                        <?php
-                       $db = new MySql();
-                        $db->dbConnect();
                        $naziv = "Koš sa tablom";
 
                        $result = $db->prikaziCenu($naziv);
@@ -470,8 +460,6 @@ include 'sqlclass.php';
                        <p class="price"><!-- rucno cena bila napisana-->
                     
                        <?php
-                       $db = new MySql();
-                        $db->dbConnect();
                        $naziv = "Vojna vozila";
 
                        $result = $db->prikaziCenu($naziv);
@@ -534,8 +522,6 @@ include 'sqlclass.php';
                     
                     
                        <?php
-                       $db = new MySql();
-                        $db->dbConnect();
                        $naziv = "Plišano magare";
 
                        $result = $db->prikaziCenu($naziv);
@@ -599,8 +585,6 @@ include 'sqlclass.php';
                     
                     
                        <?php
-                       $db = new MySql();
-                        $db->dbConnect();
                        $naziv = "Plišani medo";
 
                        $result = $db->prikaziCenu($naziv);
@@ -661,8 +645,6 @@ include 'sqlclass.php';
                        <p class="price"><!-- bila rucno napisana cena-->
                     
                        <?php
-                       $db = new MySql();
-                        $db->dbConnect();
                        $naziv = "Tabla sa stalkom";
 
                        $result = $db->prikaziCenu($naziv);
@@ -722,8 +704,6 @@ include 'sqlclass.php';
                        <p class="price"><!--rucno bila napisana cena-->
                     
                        <?php
-                       $db = new MySql();
-                        $db->dbConnect();
                        $naziv = "Učimo azbuku";
 
                        $result = $db->prikaziCenu($naziv);

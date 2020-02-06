@@ -13,6 +13,7 @@ include 'sqlclass.php';
 $db = new MySql();
 $db->dbConnect();
 $podaci=array($_POST['korisnickoIme'],$_POST['lozinka'],$_POST['ime'],$_POST['prezime'],$_POST['adresa'],$_POST['telefon'],$_POST['email']);
+
 if ($db->registracijaKorisnika($podaci)) {
     echo "Uspešno ste kreirali nalog";
 } else {
