@@ -54,41 +54,41 @@ include('meni.php');
    <div id="content" class="container">       
        <div class="row">           
            <div class="col-sm-4 col-sm-6 single">               
-               <div class="product"><!-- proizvod 1 -->
-            <?php
-            $nazivIgracke = "Plišani medo"
-            ?>
-               <!-- za svaku igracku koja predstavlja najbolju ponudu sam dodala detalje klikom na sliku, ime, i dugme(podaci iz baze) -->
-             <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">                  
-                       <img class= "img-responsive" src="slike/najboljaponuda/10.png" alt="Proizvod 1">                       
-            </a>            
-                 <div class="text">                       
+           <div class="product"><!-- proizvod 1 -->                   
+               <?php
+               $nazivIgracke = "Plišani medo";
+              ?>
+                <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+                <img class= "img-responsive" src="slike/najboljaponuda/10.png" alt="Proizvod 1">
+                </a>
+                   <div class="text">                       
                        <h3>
-                       <a href="details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
-                               Plišani medo
-                        </a>                         
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+                              Plišani medo
+                           </a>
                        </h3>                       
-                       <p class="price"><!--bilo rucno napisana cena-->                    
+                       <p class="price"><!--bila rucno cena napisana-->                    
                        <?php
                        $naziv = "Plišani medo";
                        $result = $db->prikaziCenu($naziv);
                        while ($row=mysqli_fetch_array($result)){
                        ?>
                        <div><?php echo $row["cena"]; ?></div>
-                    <?php
+<?php
                        }
-                    ?>                    
+?>
                     </p>                       
-                       <p class="button">                      
-                           <a href="details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>" class="btn btn-default">Vidi detalje
-                           </a>                           
-                           <a href="details.php" class="btn btn-primary">                               
-                               <i class="fa fa-shopping-cart">Dodaj u korpu</i>                               
+                       <p class="button">                           
+                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>" class="btn btn-default">Vidi detalje</a>
+                         <a href="details.php" class="btn btn-primary">                               
+                               <i class="fa fa-shopping-cart">
+                                  Dodaj u korpu
+                               </i>                               
                            </a>                           
                        </p>                       
                    </div>                   
-               </div><!-- proizvod 1 - kraj -->               
-           </div>
+               </div><!-- proizvod 1 - kraj-->               
+           </div>           
             <div class="col-sm-4 col-sm-6 single">               
                <div class="product"><!-- proizvod 2 -->                   
                <?php

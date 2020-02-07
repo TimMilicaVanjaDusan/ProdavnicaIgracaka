@@ -1,19 +1,10 @@
-<?php
-error_reporting(E_ALL | E_STRICT);
-ini_set("display_errors", 0);
-ini_set("log_errors", 1);
-ini_set("error_log", "php_logs.log");
-?>
-<html lang="en">
-<head>
- 
 <?php 
+include 'meni.php';
 if (isset($_POST["register"])){    
 include 'sqlclass.php';
 $db = new MySql();
 $db->dbConnect();
 $podaci=array($_POST['korisnickoIme'],$_POST['lozinka'],$_POST['ime'],$_POST['prezime'],$_POST['adresa'],$_POST['telefon'],$_POST['email']);
-
 if ($db->registracijaKorisnika($podaci)) {
     echo "Uspešno ste kreirali nalog";
 } else {
@@ -74,40 +65,7 @@ $(document).ready(function() {
 });
 </script>
 </head>
-
 <body>
-
-<div id="registracija">
-    <div id="navbar" class="navbar navbar-default">
-        <div class="container">
-            <div class="navbar-header">
-                <a href="pocetna.php" class="navbar-brand home">
-                    <img src="slike/logo.png" alt="Logo" class="hidden-xs">
-                </a>
-            </div>
-            <div class="navbar-collapse collapse" id="navigation">
-                <div class="padding-nav">
-                    <ul class="nav navbar-nav left">
-                        <li class="active">
-                            <a href="pocetna.php">Početna</a>
-                        </li>
-                        <li>
-                            <a href="ponuda.php">Ponuda</a>
-                        </li>
-                        <li>
-                            <a href="checkout.php">Moj nalog</a>
-                        </li>
-                        <li>
-                            <a href="registracija.php">Registracija</a>
-                        </li>
-                        <li>
-                            <a href="onama.php">Kontakt</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
     <div id="content">
         <!-- definisanje putanje-->
         <div class="container">

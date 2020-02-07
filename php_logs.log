@@ -1,0 +1,144 @@
+[06-Feb-2020 22:05:48 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 28
+[06-Feb-2020 22:05:48 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[06-Feb-2020 22:05:48 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[06-Feb-2020 22:17:04 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 139
+[06-Feb-2020 22:17:10 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 139
+[06-Feb-2020 22:17:27 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 139
+[06-Feb-2020 22:17:33 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 139
+[06-Feb-2020 22:20:38 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 139
+[06-Feb-2020 23:43:32 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in C:\xampp\htdocs\ProdavnicaIgracaka\sqlclass.php on line 139
+[07-Feb-2020 02:32:02 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 60
+[07-Feb-2020 02:32:02 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 70
+[07-Feb-2020 02:32:02 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 95
+[07-Feb-2020 02:32:02 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 60
+[07-Feb-2020 02:32:02 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 70
+[07-Feb-2020 02:32:02 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 95
+[07-Feb-2020 02:32:02 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 60
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 70
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 95
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 60
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 70
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 95
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 60
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 70
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 95
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 60
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 70
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 95
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 60
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 70
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 95
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 60
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 70
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 95
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 60
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 70
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 95
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 60
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 70
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 95
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 60
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 70
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 95
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 60
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 70
+[07-Feb-2020 02:32:03 Europe/Berlin] PHP Notice:  Undefined variable: nazivIgracke in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php on line 95
+[07-Feb-2020 15:43:16 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 28
+[07-Feb-2020 15:43:16 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[07-Feb-2020 15:43:16 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[07-Feb-2020 16:26:00 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 28
+[07-Feb-2020 16:26:00 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[07-Feb-2020 16:26:00 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[07-Feb-2020 16:35:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Mysql::vratiSveKategorije() in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php(25): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 36
+[07-Feb-2020 16:36:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Mysql::vratiSveKategorije() in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php(25): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 38
+[07-Feb-2020 16:36:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Mysql::vratiSveKategorije() in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php(25): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 38
+[07-Feb-2020 16:36:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Mysql::vratiSveKategorije() in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php(25): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 38
+[07-Feb-2020 16:36:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Mysql::vratiSveKategorije() in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php(25): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 38
+[07-Feb-2020 16:36:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Mysql::vratiSveKategorije() in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php(25): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 38
+[07-Feb-2020 16:38:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Mysql::vratiSveKategorije() in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php(25): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 38
+[07-Feb-2020 16:38:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Mysql::vratiSveKategorije() in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ProdavnicaIgracaka\ponuda.php(25): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 38
+[07-Feb-2020 16:42:44 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:42:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:42:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:42:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:42:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:42:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:43:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:43:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:43:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:43:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:43:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:43:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:43:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:43:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:43:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:43:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 16:43:49 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 44
+[07-Feb-2020 17:21:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Mysql::prikaziponudu() in C:\xampp\htdocs\ProdavnicaIgracaka\poPolu.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ProdavnicaIgracaka\poPolu.php on line 14
+[07-Feb-2020 17:56:07 Europe/Berlin] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 16
+[07-Feb-2020 17:59:46 Europe/Berlin] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 16
+[07-Feb-2020 18:04:54 Europe/Berlin] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 16
+[07-Feb-2020 18:04:59 Europe/Berlin] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 16
+[07-Feb-2020 18:06:37 Europe/Berlin] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 16
+[07-Feb-2020 18:07:23 Europe/Berlin] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 16
+[07-Feb-2020 18:08:13 Europe/Berlin] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 16
+[07-Feb-2020 18:14:35 Europe/Berlin] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 13
+[07-Feb-2020 18:15:11 Europe/Berlin] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 13
+[07-Feb-2020 18:17:04 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 25
+[07-Feb-2020 18:17:04 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 25
+[07-Feb-2020 18:17:08 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 25
+[07-Feb-2020 18:17:08 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 25
+[07-Feb-2020 18:17:08 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 25
+[07-Feb-2020 18:17:08 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 25
+[07-Feb-2020 18:17:08 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 25
+[07-Feb-2020 18:17:17 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 25
+[07-Feb-2020 18:17:17 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 25
+[07-Feb-2020 18:18:36 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 37
+[07-Feb-2020 18:18:36 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 37
+[07-Feb-2020 18:19:10 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 37
+[07-Feb-2020 18:19:10 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 37
+[07-Feb-2020 18:19:11 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 37
+[07-Feb-2020 18:19:11 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 37
+[07-Feb-2020 18:19:15 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 37
+[07-Feb-2020 18:19:15 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$pol in C:\xampp\htdocs\ProdavnicaIgracaka\poKategoriji.php on line 37
+[07-Feb-2020 18:20:54 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 38
+[07-Feb-2020 18:20:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function vratiSveKategorije() on null in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ProdavnicaIgracaka\registracija.php(126): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\ProdavnicaIgracaka\saStrane.php on line 38

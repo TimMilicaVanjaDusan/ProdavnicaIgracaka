@@ -136,4 +136,36 @@ class Mysql extends Dbconfig
     $q = "SELECT * FROM korisnik WHERE lozinka='".$lozinka."' AND korisnickoIme='".$ime."'";
     $this->ExecuteQuery($q);
 }
+function vratiSveIgracke()
+ {
+
+    $this->sql = "SELECT * from igracka ";
+    return mysqli_query($this->conn, $this->sql);
+
+ }
+ function prikaziPonudu($pol){
+
+    $this->sql = "SELECT igracka.nazivIgracke,igracka.proizvodjac,igracka.cena,igracka.opis,igracka.slika,tipIgracke.pol as pol FROM igracka JOIN tipIgracke ON igracka.tipIgrackeID=tipIgracke.tipIgrackeID  WHERE  pol = '".$pol."'";
+    return mysqli_query($this->conn, $this->sql);
+
+ }
+
+
+
+ function vratiSveKategorije(){
+
+    $this->sql = "SELECT * FROM kategorijaIgracke";
+    
+    return mysqli_query($this->conn, $this->sql);
+
+ }
+ function prikaziPonuduKategorija($nazivKategorije){
+
+    $this->sql = "SELECT igracka.nazivIgracke, igracka.proizvodjac, igracka.cena, igracka.opis, igracka.slika, kategorijaIgracke.nazivKategorije FROM igracka JOIN kategorijaIgracke ON igracka.kategorijaIgrackeID=kategorijaIgracke.kategorijaIgrackeID WHERE kategorijaIgracke.nazivKategorije='".$nazivKategorije."'";
+   
+    return mysqli_query($this->conn, $this->sql);
+
+ }
+
+
 }

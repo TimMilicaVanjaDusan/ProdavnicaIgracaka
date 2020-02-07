@@ -57,9 +57,7 @@ ini_set("error_log", "php_logs.log");
                         <li>
                             <a href="logout.php">Odjavi se</a>
                         </li>
-                        <li>
-                            <a href="logout.php">Odjavi se</a>
-                        </li>
+
                         <li>
                             <p>      Ulogovani ste kao <?php echo $user?></p>
                         </li>
