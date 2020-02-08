@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 07, 2020 at 05:47 PM
+-- Generation Time: Feb 08, 2020 at 10:36 PM
 -- Server version: 10.4.10-MariaDB
 -- PHP Version: 7.3.12
 
@@ -46,16 +46,20 @@ CREATE TABLE `igracka` (
 
 INSERT INTO `igracka` (`igrackaID`, `nazivIgracke`, `proizvodjac`, `cena`, `opis`, `slika`, `stanje`, `tipIgrackeID`, `kategorijaIgrackeID`) VALUES
 (1, 'Kegle', 'Shimmer & Shine', '999.99 RSD', 'Kegle za devojčice. Uzrast 3+ godina.', 'slike/devojcice/kegle3.png', 10, 1, 4),
-(2, 'Magična tabla', 'Shimmer & Shine', '999.99 RSD', 'Magična tabla za devojčice. Uzrast 3+ godine.', 'slike/devojcice/magicnaTabla5.png', 5, 1, 2),
-(3, 'Drvena kuhinja', 'Nepoznat', '4500.00 RSD', 'San svake male devojčice jeste spremanje hrane svojoj porodici i prijateljima. Omogućite to svojoj maloj kuvarici.', 'slike/devojcice/drvenaKuhinja2.png', 10, 1, 5),
-(4, 'Plišani medo', 'Toyzzz', '5000.00 RSD', 'Plišani drugar za decu uzrasta 3+ godine. Visina mede 75 cm.', 'slike/obaPola/medo75cm10.png', 3, 4, 1),
-(5, 'Plišano magare', 'Toyzzz', '599.99 RSD', 'Plišani drugar za sve uzraste.', 'slike/obaPola/magare1.png', 10, 4, 1),
-(6, 'Učimo azbuku', 'Toddly Fun', '4300.00 RS', 'Pomozite Vašim mališanima da uz igru savladaju azbuku. Za sve uzraste.', 'slike/obaPola/ucimoAzbuku6.png', 11, 4, 2),
-(7, 'Tabla sa stalkom', 'Toddly Fun', '2300.00RSD', 'Probudite u Vašem mališanu umetnika uz pomoć table sa stalkom. U paketu dolazi i pakovanje flomaster', 'slike/obaPola/tablaSaStalkom14.png', 2, 4, 2),
-(8, 'Koš sa tablom', 'Magic', '500.00 RSD', 'Ideee trojkaaa sa druge planete. Uzrast 3+ godine, namenjen dečacima.', 'slike/decaci/kosSaTablom4.png', 11, 2, 5),
-(9, 'Vojna vozila  ', 'Porces', '1400.00 RSD', 'U jednom pakovanju se nalazi 4 kamiona i 1 helikopter. Za dečake svih uzrasta.', 'slike/decaci/vojnaVozila2.png', 10, 2, 4),
-(10, 'Science and experiment', 'SCME', '2800.00 RSD', 'Neka Vaše dete razvija inteligenciju kroz ovu igricu.', 'slike/decaci/s&e3.png', 5, 2, 2),
-(11, 'Solar energy concept house ', 'DIY', '1649.99 RSD', 'Učite decu kroz ovu igricu kako da štede resurse.', 'slike/decaci/kuca10.png', 9, 2, 2);
+(2, 'Magična tabla', 'Shimmer & Shine', '999.99 RSD', 'Magična tabla za devojčice. Uzrast 3+ godine.', 'slike/devojcice/magicnaTabla5.png', 4, 1, 2),
+(3, 'Drvena kuhinja', 'Nepoznat', '4500.00 RSD', 'San svake male devojčice jeste spremanje hrane svojoj porodici i prijateljima. Omogućite to svojoj maloj kuvarici.', 'slike/devojcice/drvenaKuhinja2.png', 6, 1, 5),
+(4, 'Plišani medo', 'Toyzzz', '5000.00 RSD', 'Plišani drugar za decu uzrasta 3+ godine. Visina mede 75 cm.', 'slike/obaPola/medo75cm10.png', 5, 3, 1),
+(5, 'Plišano magare', 'Toyzzz', '599.99 RSD', 'Plišani drugar za sve uzraste.', 'slike/obaPola/magare1.png', 13, 3, 1),
+(6, 'Učimo azbuku', 'Toddly Fun', '4300.00 RS', 'Pomozite Vašim mališanima da uz igru savladaju azbuku. Za sve uzraste.', 'slike/obaPola/ucimoAzbuku6.png', 4, 3, 2),
+(7, 'Tabla sa stalkom', 'Toddly Fun', '2300.00RSD', 'Probudite u Vašem mališanu umetnika uz pomoć table sa stalkom. U paketu dolazi i pakovanje flomaster', 'slike/obaPola/tablaSaStalkom14.png', 10, 3, 2),
+(8, 'Koš sa tablom', 'Magic', '500.00 RSD', 'Ideee trojkaaa sa druge planete. Uzrast 3+ godine, namenjen dečacima.', 'slike/decaci/kosSaTablom4.png', 3, 2, 5),
+(9, 'Vojna vozila  ', 'Porces', '1400.00 RSD', 'U jednom pakovanju se nalazi 4 kamiona i 1 helikopter. Za dečake svih uzrasta.', 'slike/decaci/vojnaVozila2.png', 12, 2, 4),
+(10, 'Science and experiment', 'SCME', '2800.00 RSD', 'Neka Vaše dete razvija inteligenciju kroz ovu igricu.', 'slike/decaci/s&e3.png', 10, 2, 2),
+(11, 'Solar energy concept house ', 'DIY', '1649.99 RSD', 'Učite decu kroz ovu igricu kako da štede resurse.', 'slike/decaci/kuca10.png', 7, 2, 2),
+(13, 'Učimo azbuku 2', 'Toddy Fun', '1000 RSD', 'Pomozite vašem mališanu da nastavi učenje', 'slike/ucimoAzbuku6.png', 0, 3, 2),
+(14, 'Učimo azbuku 2', 'Toddy Fun', '1000 RSD', 'Pomozite vašem mališanu da nastavi učenje', 'slike/ucimoAzbuku6.png', 0, 3, 2),
+(16, 'Doktorica', 'Toddy Fun', '4000.00 RSD', 'Doktor u kući', 'slike/tablaSaStalkom13.png', 5, 1, 5),
+(17, 'Doktorica', 'Toddy Fun', '4000.00 RSD', 'Doktor u kući', 'slike/tablaSaStalkom13.png', 5, 1, 5);
 
 -- --------------------------------------------------------
 
@@ -105,7 +109,32 @@ INSERT INTO `korisnik` (`korisnikID`, `ime`, `prezime`, `korisnickoIme`, `lozink
 (1, 'Predrag', 'Danilovic', 'pedja', '01c7cb744adce4244f759abbf0f507be', 'Beograd', '78124620', 'pedja@gmail.com', 'korisnik'),
 (2, 'Valentina', 'Zivadinovic', 'vale', '01c7cb744adce4244f759abbf0f507be', 'Donji Milanovac', '254862', 'vale@gmail.com', 'korisnik'),
 (3, 'Nikola', 'Nikolic', 'nikola', '01c7cb744adce4244f759abbf0f507be', 'Novi Sad', '7841548', 'nikola@gmail.com', 'korisnik'),
-(4, 'Milica', 'Golubovic', 'milica', '01c7cb744adce4244f759abbf0f507be', 'Bajina Basta', '7894225', 'milicagolub98@gmail.com', 'korisnik');
+(4, 'Milica', 'Golubovic', 'milica', '01c7cb744adce4244f759abbf0f507be', 'Bajina Basta', '7894225', 'milicagolub98@gmail.com', 'admin'),
+(7, 'Vanja', 'Vlahovic', 'vanja', 'a80a6b0eadf85afcde2f48cb12cb108e', 'Beograd', '1235468', 'vanja@gmail.com', 'admin'),
+(9, 'errwerew', 'rwrewre', 'rwewer', 'ed5e479c8243dc7261c9b79382bcbe35', 'ewrer', 'wrewr', 'admin', 'admin'),
+(10, 'Nikola', 'Markovic', 'nikola1', '38db4a76fa07cb45361b272f680242b5', 'Smederevo', '868264924', 'nikola1@gmail.com', 'korisnik'),
+(11, 'Nikola', 'Markovic', 'nikola1', 'dd500b22870028a217d2f5c1e905ec4f', 'Smederevo', '868264924', 'nikola1@gmail.com', 'korisnik');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `kupovina`
+--
+
+CREATE TABLE `kupovina` (
+  `kupovinaID` int(10) NOT NULL,
+  `korisnik` varchar(100) NOT NULL,
+  `igrackaID` int(10) NOT NULL,
+  `kolicina` int(11) NOT NULL,
+  `datumKupovine` date NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data for table `kupovina`
+--
+
+INSERT INTO `kupovina` (`kupovinaID`, `korisnik`, `igrackaID`, `kolicina`, `datumKupovine`) VALUES
+(1, 'milica', 1, 2, '2020-02-02');
 
 -- --------------------------------------------------------
 
@@ -152,6 +181,12 @@ ALTER TABLE `korisnik`
   ADD PRIMARY KEY (`korisnikID`);
 
 --
+-- Indexes for table `kupovina`
+--
+ALTER TABLE `kupovina`
+  ADD PRIMARY KEY (`kupovinaID`);
+
+--
 -- Indexes for table `tipigracke`
 --
 ALTER TABLE `tipigracke`
@@ -165,7 +200,7 @@ ALTER TABLE `tipigracke`
 -- AUTO_INCREMENT for table `igracka`
 --
 ALTER TABLE `igracka`
-  MODIFY `igrackaID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+  MODIFY `igrackaID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
 
 --
 -- AUTO_INCREMENT for table `kategorijaigracke`
@@ -177,7 +212,13 @@ ALTER TABLE `kategorijaigracke`
 -- AUTO_INCREMENT for table `korisnik`
 --
 ALTER TABLE `korisnik`
-  MODIFY `korisnikID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `korisnikID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+
+--
+-- AUTO_INCREMENT for table `kupovina`
+--
+ALTER TABLE `kupovina`
+  MODIFY `kupovinaID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT for table `tipigracke`

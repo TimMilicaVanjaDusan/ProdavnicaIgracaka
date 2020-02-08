@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Kuća igračaka</title>
+    <link rel="stylesheet" href="styles/bootstrap-337.min.css">
+    <link rel="stylesheet" href="font-awsome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="js/jquery-331.min.js"></script>
+    <script src="js/bootstrap-337.min.js"></script>
+    <script src="DataTables-1.10.4/media/js/jquery.js"></script>
+<link rel="stylesheet" type="text/css" href="DataTables-1.10.4/media/css/jquery.dataTables.min.css" />
+<script src="DataTables-1.10.4/media/js/jquery.dataTables.min.js"></script>
+
+</head>
+<body>
 <?php
 include('meni.php');
 
@@ -80,7 +97,7 @@ include('meni.php');
                     </p>                       
                        <p class="button">                           
                        <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>" class="btn btn-default">Vidi detalje</a>
-                         <a href="details.php" class="btn btn-primary">                               
+                         <a href="dodajUKorpu.php" class="btn btn-primary">                               
                                <i class="fa fa-shopping-cart">
                                   Dodaj u korpu
                                </i>                               
@@ -116,7 +133,7 @@ include('meni.php');
                     </p>                       
                        <p class="button">                           
                        <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>" class="btn btn-default">Vidi detalje</a>
-                         <a href="details.php" class="btn btn-primary">                               
+                         <a href="dodajUKorpu.php" class="btn btn-primary">                               
                                <i class="fa fa-shopping-cart">
                                   Dodaj u korpu
                                </i>                               
@@ -152,7 +169,7 @@ include('meni.php');
                        </p>                       
                        <p class="button">                           
                        <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>"   class="btn btn-default">Vidi detalje</a>   
-                           <a href="details.php" class="btn btn-primary">                               
+                           <a href=<?php $db->dodajUKorpu($row[])?> class="btn btn-primary">                               
                                <i class="fa fa-shopping-cart">
                                    Dodaj u korpu
                                </i>                               

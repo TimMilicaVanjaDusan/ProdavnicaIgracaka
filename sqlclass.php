@@ -150,12 +150,9 @@ function vratiSveIgracke()
 
  }
 
-
-
  function vratiSveKategorije(){
 
     $this->sql = "SELECT * FROM kategorijaIgracke";
-    
     return mysqli_query($this->conn, $this->sql);
 
  }
@@ -164,8 +161,42 @@ function vratiSveIgracke()
     $this->sql = "SELECT igracka.nazivIgracke, igracka.proizvodjac, igracka.cena, igracka.opis, igracka.slika, kategorijaIgracke.nazivKategorije FROM igracka JOIN kategorijaIgracke ON igracka.kategorijaIgrackeID=kategorijaIgracke.kategorijaIgrackeID WHERE kategorijaIgracke.nazivKategorije='".$nazivKategorije."'";
    
     return mysqli_query($this->conn, $this->sql);
+ }
+
+ function dajSveKupovineKorisnika($login_session){
+
+   $this->sql = "SELECT * FROM kupovina  JOIN igracka  ON (kupovina.igrackaID = igracka.igrackaID) WHERE korisnik = '".$login_session."'";
+   return mysqli_query($this->conn, $this->sql);
 
  }
 
+ function dodajUKorpu(){
+
+}
+
+function dajTipove(){
+
+   $this->sql = "SELECT * FROM tipigracke";
+   return mysqli_query($this->conn, $this->sql);
+
+
+}
+
+function ubaciIgracku($podaci)
+{
+$naziv=mysqli_real_escape_string($this->conn,$podaci[0]);
+$proizvodjac=mysqli_real_escape_string($this->conn,$podaci[1]);
+$cena=mysqli_real_escape_string($this->conn,$podaci[2]);
+$opis=mysqli_real_escape_string($this->conn,$podaci[3]);
+$slika=mysqli_real_escape_string($this->conn,$podaci[4]);
+$stanje=mysqli_real_escape_string($this->conn,$podaci[5]);
+$pol=mysqli_real_escape_string($this->conn,$podaci[6]);
+$kategorija=mysqli_real_escape_string($this->conn,$podaci[7]);
+
+$sql = "INSERT INTO igracka (nazivIgracke, proizvodjac,cena,opis,slika,stanje,tipIgrackeID,kategorijaIgrackeID) VALUES ('". $naziv."', '".$proizvodjac."','". $cena."','". $opis."','".$slika."',".$stanje.",". $pol.",". $kategorija.")";
+if ($this->ExecuteQuery($sql))
+return true;
+else return false;
+}
 
 }

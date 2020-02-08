@@ -14,19 +14,6 @@ ini_set("display_errors", 0);
 ini_set("log_errors", 1);
 ini_set("error_log", "php_logs.log");
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Kuća igračaka</title>
-    <link rel="stylesheet" href="styles/bootstrap-337.min.css">
-    <link rel="stylesheet" href="font-awsome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="styles/style.css">
-    <script src="js/jquery-331.min.js"></script>
-    <script src="js/bootstrap-337.min.js"></script>
-</head>
-<body>
     <div id="navbar" class="navbar navbar-default">
         <div class="container">
             <div class="navbar-header">
@@ -46,10 +33,7 @@ ini_set("error_log", "php_logs.log");
                             <a href="ponuda.php">Ponuda</a>
                         </li>
                         <li>
-                            <a href="checkout.php">Moj nalog</a>
-                        </li>
-                        <li>
-                            <a href="registracija.php">Registracija</a>
+                            <a href="mojnalog.php">Moj nalog</a>
                         </li>
                         <li>
                             <a href="onama.php">Kontakt</a>
@@ -57,11 +41,10 @@ ini_set("error_log", "php_logs.log");
                         <li>
                             <a href="logout.php">Odjavi se</a>
                         </li>
-
-                        <li>
-                            <p>      Ulogovani ste kao <?php echo $user?></p>
-                        </li>
                     </ul>
+                    <span class="nav-item" text-align="right">
+        <a class="nav-link" href="pocetna.php"><?php echo "Ulogovani ste kao ".$user?></a>
+      </span>
                 </div>
             </div>
             
@@ -74,24 +57,23 @@ ini_set("error_log", "php_logs.log");
                             <a href="pocetna.php">Početna</a>
                         </li>
                         <li>
-                            <a href="ponuda.php">Ponuda</a>
+                            <a href="urediPonudu.php">Uredi ponudu</a>
                         </li>
                         <li>
-                            <a href="checkout.php">Moj nalog</a>
+                            <a href="dodajIgracku.php">Dodaj igračku</a>
                         </li>
                         <li>
-                            <a href="registracija.php">Registracija</a>
+                            <a href="kupovine.php">Sve kupovine</a>
                         </li>
                         <li>
-                            <a href="onama.php">Kontakt</a>
+                            <a href="statistika.php">Statistika</a>
                         </li>
                         <li>
                             <a href="logout.php">Odjavi se</a>
                         </li>
-                        <li>
-                            <p>Ulogovani ste kao <?php echo $user?></p>
-                        </li>
                     </ul>
+                    <span class="nav-item" text-align="right">
+        <a class="nav-link" href="pocetna.php"><?php echo "Ulogovani ste kao ".$user?></a>
                 </div>
             </div>
         <?php } ?>

@@ -1,5 +1,4 @@
 <?php 
-include 'meni.php';
 if (isset($_POST["register"])){    
 include 'sqlclass.php';
 $db = new MySql();
@@ -69,28 +68,15 @@ $(document).ready(function() {
     <div id="content">
         <!-- definisanje putanje-->
         <div class="container">
-            <div class="col-md-12">
-               <ul class="breadcrumb">
-                    <li>
-                        <a href="pocetna.php">Home</a>
-                    </li>
-                    <li>
-                        Registracija
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-3">
-                 <?php
-                        include("saStrane.php");
-                        ?> 
-            </div>
-            <div class="col-md-9">
+            
+            <!-- <div class="col-md-9">
                 <div class="box">
-                    <div class="box-header">
+                    <div class="box-header"> -->
                         <center>
                             <h2> Otvaranje novog naloga </h2>
                         </center>
-                        <form action="registracija.php" method="post" enctype="multipart/form-data">
+                        <form class="form-horizontal" role="form" action="registracija.php" method="post" enctype="multipart/form-data">
+                      
                             <!-- pocetak forme za registraciju -->
                             <div class="form-group">
                                 <label>Ime:</label>
@@ -129,9 +115,9 @@ $(document).ready(function() {
                             </div>
                         </form><!-- kraj forme -->
                     </div>
-                </div>
+                <!-- </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </body>
 

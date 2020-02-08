@@ -25,9 +25,10 @@ if(isset($_SESSION['login_user'])){
 <body>
 
 <div class="login-box">
-<div class="col-md-9">
+<!-- <div class="col-md-9">
                 <div class="box">
-                    <div class="box-header">
+                    <div class="box-header"> -->
+                    <div class="container">
                         <center>
                             <h2> Prijava </h2>
                         </center>

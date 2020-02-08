@@ -101,6 +101,11 @@ body{
     background: rgb(79, 191, 168);
     border-color: rgb(65, 179, 156);
 }
+.btn btn-secondary{
+color: rgb(255, 255, 255);
+    background: rgb(79, 191, 168);
+    border-color: rgb(65, 179, 156);
+}
 #search .navbar-form{
     float: right;
 }
