@@ -103,6 +103,6 @@ include_once("meni.php");
   <input type="file" name="fileToUpload" id="fileToUpload">
   <br>
   <br>
-  <button type="submit" name="submit" class="btn btn-secondary">Dodaj novog psa</button>
+  <button type="submit" name="submit" class="btn btn-primary">Dodaj igračku</button>
   </form>
 </div>
