@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,7 +16,7 @@
     <script src="js/bootstrap-337.min.js"></script>
     <script src="DataTables-1.10.4/media/js/jquery.dataTables.min.js"></script>
     <script src="jeditable/jquery.jeditable.js"></script>
-    <script src="DataTables-1.10.4/extensions/editable/jquery.dataTables.editable.js"></script>s
+    <script src="DataTables-1.10.4/extensions/editable/jquery.dataTables.editable.js"></script>
 <script>
 $(document).ready(function(){
 	$(".tabela").dataTable().makeEditable({

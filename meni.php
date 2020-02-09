@@ -36,7 +36,7 @@ ini_set("error_log", "php_logs.log");
                             <a href="mojnalog.php">Moj nalog</a>
                         </li>
                         <li>
-                            <a href="onama.php">Kontakt</a>
+                            <a href="kontakt.php">Kontakt</a>
                         </li>
                         <li>
                             <a href="logout.php">Odjavi se</a>

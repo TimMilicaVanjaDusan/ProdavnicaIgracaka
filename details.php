@@ -1,3 +1,20 @@
+<?php
+include "session.php";
+if(isset($_POST['kupi'])){//ako je pritisnuto dugme rezervisi poziva funkciju web servisa za rezervisanje
+
+if(isset($_GET['igrackaID'])){
+    $igrackaID=$_GET['igrackaID']; 
+    $kupac = $login_session;
+    echo($kupac);
+if ($db->ubaciKupovinu($igrackaID, $kupac)) {
+    echo "Uspešno ste ubacili igracku u korpu";
+} else {
+	echo "Niste ubacili igracku u korpu";
+}   
+}
+
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,14 +32,16 @@
 
 </head>
 <body>
-<div class="card text-center">      
+<?php include('meni.php');
+?>
+<div class="card text-center">  
+<form class="form-horizontal" role="form" method="post" enctype="multipart/form-data">    
     <?php
 
-   include 'meni.php';
     
     $nazivIgracke="";
-    if(isset($_GET['nazivIgracke'])){
-        $nazivIgracke=str_replace('_',' ', $_GET['nazivIgracke']);
+    if(isset($_GET['igrackaID'])){
+        $nazivIgracke=str_replace('_',' ', $_GET['igrackaID']);
         
 
         $result = $db->prikaziDetalje($nazivIgracke);
@@ -39,15 +58,20 @@
                         <h2> Opis: </h2>
                         <h6>". $row->opis. "</h6>
                         
-                        <p>Pol: " .$row->pol ."</p>
+                        <p>Pol: " .$row->pol ."</p>";
+                        ?>
+                        <input type="submit" class="btn btn-primary" name="kupi" value="Dodaj u korpu">
+                        
                         <hr>
                         <br>
                         <br>
-                        </div>";
-
+                        
+                        <?php
+                        
                        }
                     }
 ?>
+</form>
                 </div>
 </body>
 </html>

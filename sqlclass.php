@@ -115,9 +115,9 @@ class Mysql extends Dbconfig
    
  }
 
- function prikaziDetalje($naziv){
+ function prikaziDetalje($id){
 
-    $this->sql = "SELECT igracka.nazivIgracke,igracka.proizvodjac,igracka.cena,igracka.opis,igracka.slika,tipIgracke.pol FROM igracka JOIN tipIgracke ON igracka.tipIgrackeID=tipIgracke.tipIgrackeID  WHERE igracka.nazivIgracke = '".$naziv."'";
+    $this->sql = "SELECT igracka.nazivIgracke,igracka.proizvodjac,igracka.cena,igracka.opis,igracka.slika,tipIgracke.pol FROM igracka JOIN tipIgracke ON igracka.tipIgrackeID=tipIgracke.tipIgrackeID  WHERE igracka.igrackaID = '".$id."'";
     return mysqli_query($this->conn, $this->sql);
 
  }
@@ -198,5 +198,12 @@ if ($this->ExecuteQuery($sql))
 return true;
 else return false;
 }
+function ubaciKupovinu($id, $kupac)
+{
 
+$sql = "insert into kupovina (korisnik, igrackaID) values ('".$kupac."', ".$id.")";
+if ($this->ExecuteQuery($sql))
+return true;
+else return false;
+}
 }

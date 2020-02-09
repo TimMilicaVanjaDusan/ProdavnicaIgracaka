@@ -75,12 +75,12 @@ include('meni.php');
                <?php
                $nazivIgracke = "Plišani medo";
               ?>
-                <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+                <a href = "details.php?igrackaID=4">
                 <img class= "img-responsive" src="slike/najboljaponuda/10.png" alt="Proizvod 1">
                 </a>
                    <div class="text">                       
                        <h3>
-                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+                       <a href = "details.php?igrackaID=4">
                               Plišani medo
                            </a>
                        </h3>                       
@@ -96,12 +96,8 @@ include('meni.php');
 ?>
                     </p>                       
                        <p class="button">                           
-                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>" class="btn btn-default">Vidi detalje</a>
-                         <a href="dodajUKorpu.php" class="btn btn-primary">                               
-                               <i class="fa fa-shopping-cart">
-                                  Dodaj u korpu
-                               </i>                               
-                           </a>                           
+                       <a href = "details.php?igrackaID=4" class="btn btn-default">Vidi detalje</a>
+                                                    
                        </p>                       
                    </div>                   
                </div><!-- proizvod 1 - kraj-->               
@@ -111,12 +107,12 @@ include('meni.php');
                <?php
                $nazivIgracke = "Solar energy concept house";
               ?>
-                <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+                <a href = "details.php?igrackaID=11">
                 <img class= "img-responsive" src="slike/najboljaponuda/14.png" alt="Proizvod 1">
                 </a>
                    <div class="text">                       
                        <h3>
-                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+                       <a href = "details.php?igrackaID=11">
                               Solar energy concept house
                            </a>
                        </h3>                       
@@ -132,12 +128,7 @@ include('meni.php');
 ?>
                     </p>                       
                        <p class="button">                           
-                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>" class="btn btn-default">Vidi detalje</a>
-                         <a href="dodajUKorpu.php" class="btn btn-primary">                               
-                               <i class="fa fa-shopping-cart">
-                                  Dodaj u korpu
-                               </i>                               
-                           </a>                           
+                       <a href = "details.php?igrackaID=11" class="btn btn-default">Vidi detalje</a>                        
                        </p>                       
                    </div>                   
                </div><!-- proizvod 2 - kraj-->               
@@ -147,12 +138,12 @@ include('meni.php');
                <?php
                $nazivIgracke = "Science and experiment";
                ?>               
-             <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+             <a href = "details.php?igrackaID=10">
                        <img class= "img-responsive" src="slike/najboljaponuda/19.png" alt="Proizvod 1">             
 </a>       
                  <div class="text">                       
                        <h3>
-                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>">
+                       <a href = "details.php?igrackaID=10">
                               Science & experiment
                            </a>
                        </h3>                       
@@ -168,12 +159,7 @@ include('meni.php');
 ?>
                        </p>                       
                        <p class="button">                           
-                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $nazivIgracke);?>"   class="btn btn-default">Vidi detalje</a>   
-                           <a href=<?php $db->dodajUKorpu($row[])?> class="btn btn-primary">                               
-                               <i class="fa fa-shopping-cart">
-                                   Dodaj u korpu
-                               </i>                               
-                           </a>                           
+                       <a href = "details.php?igrackaID=10"   class="btn btn-default">Vidi detalje</a>                        
                        </p>                       
                    </div>                   
                </div><!-- proizvod 3 - kraj -->               

@@ -69,13 +69,13 @@ include 'meni.php';
                     {
             ?>
             <span class="product"> <!--proizvod -->
-                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $red["nazivIgracke"]);?>">
+                       <a href = "details.php?igrackaID=<?php echo str_replace(' ', '_', $red["igrackaID"]);?>">
                        <img class="img-responsive" src=<?php echo $red["slika"] ?> alt="Product 1">         
                    </a>
                    
                    <div class="text">
                        <h3>
-                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $red["nazivIgracke"]);?>">
+                       <a href = "details.php?igrackaID=<?php echo str_replace(' ', '_', $red["igrackaID"]);?>">
                        <?php echo ($red["nazivIgracke"]);?>
                            </a>
                        </h3>                       
@@ -90,13 +90,8 @@ include 'meni.php';
 ?>
                         </p>                       
                        <p class="button">                           
-                       <a href = "details.php?nazivIgracke=<?php echo str_replace(' ', '_', $red["nazivIgracke"]);?>"
-                class="btn btn-default">Vidi detalje</a>                           
-                           <a href="details.php" class="btn btn-primary">                               
-                               <i class="fa fa-shopping-cart">
-                                   Dodaj u korpu
-                               </i>                               
-                           </a>                           
+                       <a href = "details.php?igrackaID=<?php echo str_replace(' ', '_', $red["igrackaID"]);?>"
+                class="btn btn-default">Vidi detalje</a>                                                                             
                        </p>                       
                     </div>
                     </span>                   

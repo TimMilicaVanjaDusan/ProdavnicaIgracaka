@@ -1129,3 +1129,285 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[08-Feb-2020 23:51:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[08-Feb-2020 23:51:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[08-Feb-2020 23:52:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[08-Feb-2020 23:52:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[08-Feb-2020 23:55:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[08-Feb-2020 23:55:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 00:46:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 00:46:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:37 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:37 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:38:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:39:01 Europe/Berlin] PHP Notice:  Undefined index: login_user in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 28
+[09-Feb-2020 01:39:01 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 01:39:01 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 01:39:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:39:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 01:39:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 02:13:34 Europe/Berlin] PHP Fatal error:  Cannot redeclare Mysql::ubaciIgracku() in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 201
+[09-Feb-2020 02:13:37 Europe/Berlin] PHP Fatal error:  Cannot redeclare Mysql::ubaciIgracku() in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 201
+[09-Feb-2020 02:14:13 Europe/Berlin] PHP Fatal error:  Cannot redeclare Mysql::ubaciIgracku() in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 201
+[09-Feb-2020 02:14:22 Europe/Berlin] PHP Fatal error:  Cannot redeclare Mysql::ubaciIgracku() in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 201
+[09-Feb-2020 02:14:40 Europe/Berlin] PHP Fatal error:  Cannot redeclare Mysql::ubaciIgracku() in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 201
+[09-Feb-2020 02:15:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 02:15:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 02:19:35 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 209
+[09-Feb-2020 02:19:48 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 209
+[09-Feb-2020 02:22:21 Europe/Berlin] PHP Notice:  Undefined variable: login_session in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\details.php on line 8
+[09-Feb-2020 02:22:21 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 209
+[09-Feb-2020 02:23:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 02:23:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 02:24:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 02:24:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 02:24:58 Europe/Berlin] PHP Notice:  Undefined variable: login_session in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\details.php on line 8
+[09-Feb-2020 02:24:58 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 209
+[09-Feb-2020 02:26:06 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 209
+[09-Feb-2020 02:26:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 02:26:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 02:26:17 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 209
+[09-Feb-2020 02:28:01 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 209
+[09-Feb-2020 02:28:01 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 209
+[09-Feb-2020 02:28:10 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 209
+[09-Feb-2020 02:28:11 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 209
+[09-Feb-2020 02:28:17 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 209
+[09-Feb-2020 02:28:18 Europe/Berlin] PHP Fatal error:  Cannot declare class Mysql, because the name is already in use in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\sqlclass.php on line 209
+[09-Feb-2020 02:28:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
+[09-Feb-2020 02:28:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php:172
+Stack trace:
+#0 {main}
+  thrown in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\pocetna.php on line 172
