@@ -5,9 +5,9 @@ $db = new MySql();
 $db->dbConnect();
 $podaci=array($_POST['korisnickoIme'],$_POST['lozinka'],$_POST['ime'],$_POST['prezime'],$_POST['adresa'],$_POST['telefon'],$_POST['email']);
 if ($db->registracijaKorisnika($podaci)) {
-    echo "Uspešno ste kreirali nalog";
+    echo "<script type='text/javascript'>alert('Uspešno ste kreirali nalog!');</script>";
 } else {
-	echo "Niste kreirali nalog";
+	echo "<script type='text/javascript'>alert('Greška u kreiranju naloga!');</script>";
 }
 }?>
     <meta charset="UTF-8">
@@ -65,13 +65,10 @@ $(document).ready(function() {
 </script>
 </head>
 <body>
-    <div id="content">
-        <!-- definisanje putanje-->
+    
         <div class="container">
-            
-            <!-- <div class="col-md-9">
-                <div class="box">
-                    <div class="box-header"> -->
+					<div class="row">
+						 <div class="col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-6 col-xs-offset-2 col-xs-8"> 
                         <center>
                             <h2> Otvaranje novog naloga </h2>
                         </center>
@@ -80,7 +77,7 @@ $(document).ready(function() {
                             <!-- pocetak forme za registraciju -->
                             <div class="form-group">
                                 <label>Ime:</label>
-                                <input type="text" class="form-control" id="ime" name="ime" required>                             
+                                <input type="text" class="form-control input-sm chat-input" id="ime" name="ime" required>                             
                             </div>
                             <div class="form-group">
                                 <label>Prezime:</label>
@@ -119,6 +116,12 @@ $(document).ready(function() {
             </div>
         </div> -->
     </div>
+    <div style="text-align: center">
+        <a href="index.php">Prijavi se</a>
+    </div>
+        </div>
+
+        
 </body>
 
 </html>

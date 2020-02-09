@@ -206,4 +206,10 @@ if ($this->ExecuteQuery($sql))
 return true;
 else return false;
 }
+function dajSveKupovine(){
+
+   $this->sql = "SELECT * FROM kupovina  JOIN igracka  ON (kupovina.igrackaID = igracka.igrackaID)";
+   return mysqli_query($this->conn, $this->sql);
+
+}
 }

@@ -1,20 +1,4 @@
-<?php
-include "session.php";
-if(isset($_POST['kupi'])){//ako je pritisnuto dugme rezervisi poziva funkciju web servisa za rezervisanje
 
-if(isset($_GET['igrackaID'])){
-    $igrackaID=$_GET['igrackaID']; 
-    $kupac = $login_session;
-    echo($kupac);
-if ($db->ubaciKupovinu($igrackaID, $kupac)) {
-    echo "Uspešno ste ubacili igracku u korpu";
-} else {
-	echo "Niste ubacili igracku u korpu";
-}   
-}
-
-}
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,6 +15,21 @@ if ($db->ubaciKupovinu($igrackaID, $kupac)) {
 <script src="DataTables-1.10.4/media/js/jquery.dataTables.min.js"></script>
 
 </head>
+<?php
+include "session.php";
+if(isset($_POST['kupi'])){//ako je pritisnuto dugme rezervisi poziva funkciju web servisa za rezervisanje
+
+if(isset($_GET['igrackaID'])){
+    $igrackaID=$_GET['igrackaID']; 
+    $kupac = $login_session;
+if ($db->ubaciKupovinu($igrackaID, $kupac)) { 
+    echo "<script type='text/javascript'>alert('Uspešno dodata igračka u korpu');</script>";
+} else {
+	echo "<script type='text/javascript'>alert('Neuspešno dodata igračka u korpu');</script>";
+}   
+}
+}
+?>
 <body>
 <?php include('meni.php');
 ?>

@@ -43,7 +43,7 @@ ini_set("error_log", "php_logs.log");
                         </li>
                     </ul>
                     <span class="nav-item" text-align="right">
-        <a class="nav-link" href="pocetna.php"><?php echo "Ulogovani ste kao ".$user?></a>
+                <?php echo "Ulogovani ste kao ".$user?></a>
       </span>
                 </div>
             </div>
@@ -57,13 +57,10 @@ ini_set("error_log", "php_logs.log");
                             <a href="pocetna.php">Početna</a>
                         </li>
                         <li>
-                            <a href="urediPonudu.php">Uredi ponudu</a>
-                        </li>
-                        <li>
                             <a href="dodajIgracku.php">Dodaj igračku</a>
                         </li>
                         <li>
-                            <a href="kupovine.php">Sve kupovine</a>
+                            <a href="sveKupovine.php">Sve kupovine</a>
                         </li>
                         <li>
                             <a href="statistika.php">Statistika</a>
@@ -73,7 +70,7 @@ ini_set("error_log", "php_logs.log");
                         </li>
                     </ul>
                     <span class="nav-item" text-align="right">
-        <a class="nav-link" href="pocetna.php"><?php echo "Ulogovani ste kao ".$user?></a>
+        <?php echo "Ulogovani ste kao ".$user?></a>
                 </div>
             </div>
         <?php } ?>

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 08, 2020 at 10:36 PM
+-- Generation Time: Feb 09, 2020 at 04:24 AM
 -- Server version: 10.4.10-MariaDB
 -- PHP Version: 7.3.12
 
@@ -57,9 +57,7 @@ INSERT INTO `igracka` (`igrackaID`, `nazivIgracke`, `proizvodjac`, `cena`, `opis
 (10, 'Science and experiment', 'SCME', '2800.00 RSD', 'Neka Vaše dete razvija inteligenciju kroz ovu igricu.', 'slike/decaci/s&e3.png', 10, 2, 2),
 (11, 'Solar energy concept house ', 'DIY', '1649.99 RSD', 'Učite decu kroz ovu igricu kako da štede resurse.', 'slike/decaci/kuca10.png', 7, 2, 2),
 (13, 'Učimo azbuku 2', 'Toddy Fun', '1000 RSD', 'Pomozite vašem mališanu da nastavi učenje', 'slike/ucimoAzbuku6.png', 0, 3, 2),
-(14, 'Učimo azbuku 2', 'Toddy Fun', '1000 RSD', 'Pomozite vašem mališanu da nastavi učenje', 'slike/ucimoAzbuku6.png', 0, 3, 2),
-(16, 'Doktorica', 'Toddy Fun', '4000.00 RSD', 'Doktor u kući', 'slike/tablaSaStalkom13.png', 5, 1, 5),
-(17, 'Doktorica', 'Toddy Fun', '4000.00 RSD', 'Doktor u kući', 'slike/tablaSaStalkom13.png', 5, 1, 5);
+(21, 'Doktorica', 'ok', '1000 RSD', 'knk', 'img/default.png', 5, 1, 1);
 
 -- --------------------------------------------------------
 
@@ -106,14 +104,16 @@ CREATE TABLE `korisnik` (
 --
 
 INSERT INTO `korisnik` (`korisnikID`, `ime`, `prezime`, `korisnickoIme`, `lozinka`, `adresa`, `telefon`, `email`, `status`) VALUES
-(1, 'Predrag', 'Danilovic', 'pedja', '01c7cb744adce4244f759abbf0f507be', 'Beograd', '78124620', 'pedja@gmail.com', 'korisnik'),
 (2, 'Valentina', 'Zivadinovic', 'vale', '01c7cb744adce4244f759abbf0f507be', 'Donji Milanovac', '254862', 'vale@gmail.com', 'korisnik'),
 (3, 'Nikola', 'Nikolic', 'nikola', '01c7cb744adce4244f759abbf0f507be', 'Novi Sad', '7841548', 'nikola@gmail.com', 'korisnik'),
 (4, 'Milica', 'Golubovic', 'milica', '01c7cb744adce4244f759abbf0f507be', 'Bajina Basta', '7894225', 'milicagolub98@gmail.com', 'admin'),
 (7, 'Vanja', 'Vlahovic', 'vanja', 'a80a6b0eadf85afcde2f48cb12cb108e', 'Beograd', '1235468', 'vanja@gmail.com', 'admin'),
 (9, 'errwerew', 'rwrewre', 'rwewer', 'ed5e479c8243dc7261c9b79382bcbe35', 'ewrer', 'wrewr', 'admin', 'admin'),
 (10, 'Nikola', 'Markovic', 'nikola1', '38db4a76fa07cb45361b272f680242b5', 'Smederevo', '868264924', 'nikola1@gmail.com', 'korisnik'),
-(11, 'Nikola', 'Markovic', 'nikola1', 'dd500b22870028a217d2f5c1e905ec4f', 'Smederevo', '868264924', 'nikola1@gmail.com', 'korisnik');
+(11, 'Nikola', 'Markovic', 'nikola1', 'dd500b22870028a217d2f5c1e905ec4f', 'Smederevo', '868264924', 'nikola1@gmail.com', 'korisnik'),
+(12, 'Predrag', 'Danilovic', 'pedja', 'f8ec72e020b0123d6f3bb032446ca7c8', 'Beograd', '27247924', 'pedja@gmail.com', 'korisnik'),
+(13, 'Stefan', 'Stefanovic', 'stefan', 'eacb0e15ea42fd58df5bb5c02a10178b', 'Smederevo', '59385932', 'stefo@gmai.com', 'korisnik'),
+(14, 'Dusica', 'Golubovic', 'dusica', '7c1bcb6b994fdffaab3f3ee8d0cfd960', 'Bajina Basta', '42048204', 'dusa@gmail.com', 'korisnik');
 
 -- --------------------------------------------------------
 
@@ -125,16 +125,20 @@ CREATE TABLE `kupovina` (
   `kupovinaID` int(10) NOT NULL,
   `korisnik` varchar(100) NOT NULL,
   `igrackaID` int(10) NOT NULL,
-  `kolicina` int(11) NOT NULL,
-  `datumKupovine` date NOT NULL
+  `datumKupovine` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Dumping data for table `kupovina`
 --
 
-INSERT INTO `kupovina` (`kupovinaID`, `korisnik`, `igrackaID`, `kolicina`, `datumKupovine`) VALUES
-(1, 'milica', 1, 2, '2020-02-02');
+INSERT INTO `kupovina` (`kupovinaID`, `korisnik`, `igrackaID`, `datumKupovine`) VALUES
+(1, 'milica', 1, '2020-02-02 20:20:00'),
+(2, 'pedja', 8, '2020-01-31 08:10:10'),
+(3, 'nikola', 5, '2020-01-22 09:00:00'),
+(4, 'nikola1', 9, '2020-02-06 09:00:00'),
+(10, 'pedja', 11, '2020-02-09 02:23:29'),
+(11, 'stefan', 3, '2020-02-09 03:12:55');
 
 -- --------------------------------------------------------
 
@@ -200,7 +204,7 @@ ALTER TABLE `tipigracke`
 -- AUTO_INCREMENT for table `igracka`
 --
 ALTER TABLE `igracka`
-  MODIFY `igrackaID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
+  MODIFY `igrackaID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
 
 --
 -- AUTO_INCREMENT for table `kategorijaigracke`
@@ -212,13 +216,13 @@ ALTER TABLE `kategorijaigracke`
 -- AUTO_INCREMENT for table `korisnik`
 --
 ALTER TABLE `korisnik`
-  MODIFY `korisnikID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+  MODIFY `korisnikID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15;
 
 --
 -- AUTO_INCREMENT for table `kupovina`
 --
 ALTER TABLE `kupovina`
-  MODIFY `kupovinaID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `kupovinaID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
 
 --
 -- AUTO_INCREMENT for table `tipigracke`

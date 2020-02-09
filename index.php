@@ -24,23 +24,27 @@ if(isset($_SESSION['login_user'])){
 </head>
 <body>
 
-<div class="login-box">
+
 <!-- <div class="col-md-9">
                 <div class="box">
                     <div class="box-header"> -->
+                    <!-- <div class="container" id="forme"> -->
                     <div class="container">
+					<div class="row">
+						 <div class="col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-6 col-xs-offset-2 col-xs-8"> 
+								<div class="form-login"
                         <center>
-                            <h2> Prijava </h2>
+                            <h2 align = "center"> Prijava </h2>
                         </center>
                         <form method="post">
                             <div class="form-group">
                                 <label>Korisnicko ime:</label>
-                                <input type="text" class="form-control" id="korisnickoIme" name="korisnickoIme">
+                                <input type="text" class="form-control input-sm chat-input" id="korisnickoIme" name="korisnickoIme">
                                 <div id="user-result"></div>
                             </div>
                             <div class="form-group">
                                 <label>Lozinka:</label>
-                                <input type="password" class="form-control" id="lozinka" name="lozinka">
+                                <input type="password" class="form-control input-sm chat-input" id="lozinka" name="lozinka">
                                 <div id="pass-result"></div>
                             </div>
                             <div class="text-center">
@@ -48,8 +52,11 @@ if(isset($_SESSION['login_user'])){
                                     <i class="fa fa-user-md"></i> Uloguj se
                                 </button>
                             </div>
+                            <br>
                         </form><!-- kraj forme -->
+                        <div style="text-align: center">
                         <a href="registracija.php">Nemate nalog? Registrujte se...</a>
+</div>
 <?php 
 if($error=="Pogresno ste uneli korisnicko ime ili sifru!"||$error=="Morate uneti korisnicko ime i sifru!"){
 echo "<div style='font-size:20px; color:darkred;'>".$error. "</div>";}
