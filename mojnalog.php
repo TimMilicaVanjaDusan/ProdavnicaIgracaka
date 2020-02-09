@@ -45,6 +45,9 @@ $(document).ready(function(){
 .tabela{
 text-align:center;
 }
+#tabelaKupovina{
+padding:0 200px 0 200px;
+}
 th{
 text-align:center;
 }
@@ -53,7 +56,6 @@ border-radius:10px;
 font-family:Trebuchet MS;
 font-size:12px;
 background-color:rgba(250, 250, 250, 0.7);
-
 }
 </style>
 </head>
@@ -61,7 +63,9 @@ background-color:rgba(250, 250, 250, 0.7);
 <?php
 include 'meni.php';
 ?>
-<h1 id="moje">Istorija mojih kupovina</h1>  
+<div id="tabelaKupovina"> 
+<h1 id="moje">Istorija mojih kupovina</h1> 
+
 <table class="tabela display"  width="100%">
 <thead>
 <tr>
@@ -103,7 +107,9 @@ include 'meni.php';
 ?>
 </tbody>
 </table>
+
 <button id="btnDeleteRow" class="btn btn-danger"  style="padding:20px;position:relative;left:130px;top:20px;">
 <span class="glyphicon glyphicon-circle-arrow-down"></span> Otkaži kupovinu</button>
+</div>
 </body>
 </html>

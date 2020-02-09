@@ -41,10 +41,11 @@ ini_set("error_log", "php_logs.log");
                         <li>
                             <a href="logout.php">Odjavi se</a>
                         </li>
+                        <li>
+                            <h4>Ulogovani ste kao <?php echo $user?></h4>
+                        </li>
                     </ul>
-                    <span class="nav-item" text-align="right">
-                <?php echo "Ulogovani ste kao ".$user?></a>
-      </span>
+                   
                 </div>
             </div>
             
@@ -63,14 +64,16 @@ ini_set("error_log", "php_logs.log");
                             <a href="sveKupovine.php">Sve kupovine</a>
                         </li>
                         <li>
-                            <a href="statistika.php">Statistika</a>
+                            <a href="grafik.php">Statistika</a>
                         </li>
                         <li>
                             <a href="logout.php">Odjavi se</a>
                         </li>
+                        <li>
+                            <h4>Ulogovani ste kao <?php echo $user?></h4>
+                        </li>
                     </ul>
-                    <span class="nav-item" text-align="right">
-        <?php echo "Ulogovani ste kao ".$user?></a>
+                    
                 </div>
             </div>
         <?php } ?>

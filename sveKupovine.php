@@ -42,6 +42,9 @@ $(document).ready(function(){
 .row_selected td {
     background-color: #d3d3d3 !important; /* Add !important to make sure override datables base styles */
 }
+#tabelaKupovina{
+padding:0 200px 0 200px;
+}
 .tabela{
 text-align:center;
 }
@@ -61,6 +64,7 @@ background-color:rgba(250, 250, 250, 0.7);
 <?php
 include 'meni.php';
 ?>
+<div id="tabelaKupovina"> 
 <h1 id="kupovine">Sve kupovine</h1>  
 <table class="tabela display"  width="100%">
 <thead>
@@ -107,5 +111,6 @@ include 'meni.php';
 </table>
 <button id="btnDeleteRow" class="btn btn-danger"  style="padding:20px;position:relative;left:130px;top:20px;">
 <span class="glyphicon glyphicon-circle-arrow-down"></span> Otkaži kupovinu</button>
+</div>
 </body>
 </html>
