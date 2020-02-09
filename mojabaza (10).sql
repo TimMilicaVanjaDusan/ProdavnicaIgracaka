@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 09, 2020 at 04:24 AM
+-- Generation Time: Feb 09, 2020 at 02:16 PM
 -- Server version: 10.4.10-MariaDB
 -- PHP Version: 7.3.12
 
@@ -138,7 +138,11 @@ INSERT INTO `kupovina` (`kupovinaID`, `korisnik`, `igrackaID`, `datumKupovine`) 
 (3, 'nikola', 5, '2020-01-22 09:00:00'),
 (4, 'nikola1', 9, '2020-02-06 09:00:00'),
 (10, 'pedja', 11, '2020-02-09 02:23:29'),
-(11, 'stefan', 3, '2020-02-09 03:12:55');
+(11, 'stefan', 3, '2020-02-09 03:12:55'),
+(12, 'milica', 4, '2020-02-09 08:40:06'),
+(13, 'nikola1', 5, '2020-02-09 09:57:49'),
+(14, 'nikola1', 5, '2020-02-09 09:57:53'),
+(15, 'milica', 11, '2020-02-09 10:51:39');
 
 -- --------------------------------------------------------
 
@@ -222,7 +226,7 @@ ALTER TABLE `korisnik`
 -- AUTO_INCREMENT for table `kupovina`
 --
 ALTER TABLE `kupovina`
-  MODIFY `kupovinaID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+  MODIFY `kupovinaID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16;
 
 --
 -- AUTO_INCREMENT for table `tipigracke`

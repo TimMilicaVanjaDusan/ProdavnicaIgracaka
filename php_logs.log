@@ -1667,3 +1667,75 @@ Stack trace:
 [09-Feb-2020 10:36:43 Europe/Berlin] PHP Warning:  include(): Failed opening 'izgled.php' for inclusion (include_path='G:\programiG\XAMPP\php\PEAR') in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\grafik.php on line 7
 [09-Feb-2020 10:36:43 Europe/Berlin] PHP Warning:  include(izgled.php): failed to open stream: No such file or directory in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\grafik.php on line 7
 [09-Feb-2020 10:36:43 Europe/Berlin] PHP Warning:  include(): Failed opening 'izgled.php' for inclusion (include_path='G:\programiG\XAMPP\php\PEAR') in G:\programiG\XAMPP\htdocs\ProdavnicaIgracaka\grafik.php on line 7
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:28 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:54:56 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:55:01 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:55:12 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 28
+[09-Feb-2020 10:55:12 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 10:55:12 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 10:55:26 Europe/Berlin] PHP Warning:  include(izgled.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ProdavnicaIgracaka\grafik.php on line 7
+[09-Feb-2020 10:55:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'izgled.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\ProdavnicaIgracaka\grafik.php on line 7
+[09-Feb-2020 10:58:33 Europe/Berlin] PHP Warning:  include(izgled.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ProdavnicaIgracaka\grafik.php on line 7
+[09-Feb-2020 10:58:33 Europe/Berlin] PHP Warning:  include(): Failed opening 'izgled.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\ProdavnicaIgracaka\grafik.php on line 7
+[09-Feb-2020 11:04:34 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 28
+[09-Feb-2020 11:04:34 Europe/Berlin] PHP Notice:  Trying to get property 'korisnickoIme' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\session.php on line 32
+[09-Feb-2020 11:04:34 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
+[09-Feb-2020 11:17:20 Europe/Berlin] PHP Warning:  include(izgled.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ProdavnicaIgracaka\grafik.php on line 7
+[09-Feb-2020 11:17:20 Europe/Berlin] PHP Warning:  include(): Failed opening 'izgled.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\ProdavnicaIgracaka\grafik.php on line 7
