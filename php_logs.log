@@ -1739,3 +1739,37 @@ Stack trace:
 [09-Feb-2020 11:04:34 Europe/Berlin] PHP Notice:  Trying to get property 'status' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\meni.php on line 9
 [09-Feb-2020 11:17:20 Europe/Berlin] PHP Warning:  include(izgled.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ProdavnicaIgracaka\grafik.php on line 7
 [09-Feb-2020 11:17:20 Europe/Berlin] PHP Warning:  include(): Failed opening 'izgled.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\ProdavnicaIgracaka\grafik.php on line 7
+[16-Aug-2020 18:23:25 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'mojabaza' in C:\xampp\htdocs\prodavnicaIgracaka\ProdavnicaIgracaka\sqlclass.php on line 45
+[16-Aug-2020 18:23:25 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\prodavnicaIgracaka\ProdavnicaIgracaka\sqlclass.php on line 50
+[16-Aug-2020 18:23:49 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'mojabaza' in C:\xampp\htdocs\prodavnicaIgracaka\ProdavnicaIgracaka\sqlclass.php on line 45
+[16-Aug-2020 18:23:49 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\prodavnicaIgracaka\ProdavnicaIgracaka\sqlclass.php on line 50
+[16-Aug-2020 18:36:53 Europe/Berlin] PHP Warning:  include(izgled.php): failed to open stream: No such file or directory in C:\xampp\htdocs\prodavnicaIgracaka\ProdavnicaIgracaka\grafik.php on line 7
+[16-Aug-2020 18:36:53 Europe/Berlin] PHP Warning:  include(): Failed opening 'izgled.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\prodavnicaIgracaka\ProdavnicaIgracaka\grafik.php on line 7
+[16-Aug-2020 18:37:36 Europe/Berlin] PHP Warning:  include(izgled.php): failed to open stream: No such file or directory in C:\xampp\htdocs\prodavnicaIgracaka\ProdavnicaIgracaka\grafik.php on line 7
+[16-Aug-2020 18:37:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'izgled.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\prodavnicaIgracaka\ProdavnicaIgracaka\grafik.php on line 7
+[16-Aug-2020 18:39:30 Europe/Berlin] PHP Warning:  include(izgled.php): failed to open stream: No such file or directory in C:\xampp\htdocs\prodavnicaIgracaka\ProdavnicaIgracaka\grafik.php on line 7
+[16-Aug-2020 18:39:30 Europe/Berlin] PHP Warning:  include(): Failed opening 'izgled.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\prodavnicaIgracaka\ProdavnicaIgracaka\grafik.php on line 7
+[16-Aug-2020 18:54:44 Europe/Berlin] PHP Warning:  include(izgled.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ProdavnicaIgracaka\grafik.php on line 7
+[16-Aug-2020 18:54:44 Europe/Berlin] PHP Warning:  include(): Failed opening 'izgled.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\ProdavnicaIgracaka\grafik.php on line 7
+[16-Aug-2020 19:16:41 Europe/Berlin] PHP Notice:  Trying to get property 'igracka' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 55
+[16-Aug-2020 19:16:41 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 55
+[16-Aug-2020 19:18:16 Europe/Berlin] PHP Notice:  Trying to get property 'igracka' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 55
+[16-Aug-2020 19:18:16 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 55
+[16-Aug-2020 19:19:15 Europe/Berlin] PHP Notice:  Trying to get property 'igracka' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 55
+[16-Aug-2020 19:19:15 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 55
+[16-Aug-2020 19:19:40 Europe/Berlin] PHP Notice:  Trying to get property 'igracka' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 55
+[16-Aug-2020 19:19:40 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 55
+[16-Aug-2020 19:20:23 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 54
+[16-Aug-2020 19:20:23 Europe/Berlin] PHP Notice:  Trying to get property 'igracka' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 56
+[16-Aug-2020 19:20:23 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 56
+[16-Aug-2020 19:28:43 Europe/Berlin] PHP Notice:  Trying to get property 'igracka' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 56
+[16-Aug-2020 19:28:43 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 56
+[16-Aug-2020 19:28:53 Europe/Berlin] PHP Notice:  Trying to get property 'igracka' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 56
+[16-Aug-2020 19:28:53 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 56
+[16-Aug-2020 19:29:21 Europe/Berlin] PHP Notice:  Trying to get property 'igracka' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 56
+[16-Aug-2020 19:29:21 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 56
+[16-Aug-2020 19:29:44 Europe/Berlin] PHP Notice:  Trying to get property 'igracka' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 56
+[16-Aug-2020 19:29:44 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 56
+[16-Aug-2020 19:31:06 Europe/Berlin] PHP Notice:  Trying to get property 'igracka' of non-object in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 56
+[16-Aug-2020 19:31:06 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 56
+[16-Aug-2020 19:44:27 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\ProdavnicaIgracaka\ponuda2.php on line 54

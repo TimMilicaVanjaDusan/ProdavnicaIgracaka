@@ -30,7 +30,7 @@ ini_set("error_log", "php_logs.log");
                             <a href="pocetna.php">Početna</a>
                         </li>
                         <li>
-                            <a href="ponuda.php">Ponuda</a>
+                            <a href="ponuda2.php">Ponuda</a>
                         </li>
                         <li>
                             <a href="mojnalog.php">Moj nalog</a>

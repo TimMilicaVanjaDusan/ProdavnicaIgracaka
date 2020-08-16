@@ -14,6 +14,7 @@ Flight::route('GET /igracke.json', function(){
 	$db = Flight::db();
 	$db->select();
 	$niz=array();
+	
 	while ($red=$db->getResult()->fetch_object()){
 		$niz[] = $red;
 	}
